@@ -1,0 +1,2238 @@
+Basement,Sale_Price,Estimate_Building,Building Square Feet,Fireplaces,Building_Square_Feet,Attic_Type,Basement_Finish,Type_of_Residence,Bathrooms
+not_full,235000,207590.0,1304.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,235000,207590.0,1304.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+full,252000,223020.0,1488.0,1+,Medium,None,Unfinished,one_story,2
+full,252000,200760.0,1488.0,1+,Medium,None,Unfinished,one_story,2
+full,246000,192950.0,1548.0,0,Medium,None,Unfinished,one_story,2
+full,246000,186190.0,1548.0,0,Medium,None,Unfinished,one_story,2
+not_full,387500,273610.0,2216.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,387500,273610.0,2216.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,292000,170680.0,1318.0,1+,Small-Medium,None,Unfinished,one_story,2
+full,292000,184040.0,1318.0,1+,Small-Medium,None,Unfinished,one_story,2
+not_full,260000,201680.0,1187.0,1+,Small,None,Formal rec room,one_story,2
+not_full,391000,306620.0,2248.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,401000,307310.0,2200.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,340000,160950.0,1186.0,0,Small,Partial,Unfinished,one_story,2
+full,340000,215000.0,1186.0,0,Small,Partial,Unfinished,one_story,2
+full,340000,160950.0,1186.0,0,Small,Partial,Unfinished,one_story,2
+full,240000,233490.0,2011.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,316500,219620.0,1686.0,1+,Medium,None,Unfinished,one_story,2
+full,316500,219620.0,1686.0,1+,Medium,None,Unfinished,one_story,2
+not_full,175000,119840.0,1300.0,1+,Small-Medium,None,Formal rec room,one_story,1
+not_full,225000,194190.0,1120.0,0,Small,None,Formal rec room,one_story,1
+full,380000,262060.0,2141.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,305000,145210.0,1558.0,0,Medium,None,Formal rec room,over_one_story,2
+not_full,324700,169560.0,1770.0,1+,Medium,None,Unfinished,one_story,2
+full,378000,250570.0,2280.0,1+,Large,None,Unfinished,one_story,2
+full,292000,256180.0,1915.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,415000,276900.0,2176.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,189900,143830.0,1065.0,0,Small,None,Unfinished,one_story,2
+not_full,335000,240570.0,1196.0,1+,Small-Medium,None,Formal rec room,over_one_story,2
+full,324500,215060.0,1670.0,1+,Medium,None,Unfinished,one_story,2
+not_full,373000,316410.0,2439.0,1+,Large,None,Unfinished,one_story,2
+full,405000,256370.0,2616.0,1+,Large,None,Unfinished,one_story,2
+full,405000,268660.0,2616.0,1+,Large,None,Unfinished,one_story,2
+full,326500,134640.0,1646.0,1+,Medium,None,Unfinished,one_story,2
+not_full,250500,184290.0,1296.0,1+,Small-Medium,Partial,Formal rec room,over_one_story,2
+not_full,250500,233000.0,1296.0,1+,Small-Medium,Partial,Formal rec room,over_one_story,2
+not_full,377000,273240.0,1992.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,195000,134650.0,1065.0,0,Small,None,Unfinished,one_story,2
+full,265000,235700.0,2188.0,0,Medium-Large,None,Unfinished,one_story,2
+not_full,290000,198910.0,1232.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+full,335000,253340.0,2323.0,0,Large,None,Unfinished,one_story,2
+full,250000,191300.0,1510.0,1+,Medium,None,Unfinished,one_story,1
+full,565000,378190.0,3070.0,1+,Large,None,Unfinished,one_story,3+
+full,250000,199680.0,1386.0,1+,Small-Medium,None,Unfinished,one_story,1
+not_full,335000,294090.0,2292.0,1+,Large,None,Formal rec room,one_story,2
+full,255000,170410.0,1188.0,1+,Small,None,Unfinished,one_story,1
+full,149000,91380.0,1250.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,230000,191130.0,1075.0,0,Small,None,Formal rec room,over_one_story,1
+not_full,285500,237000.0,1266.0,0,Small-Medium,None,Formal rec room,over_one_story,1
+full,225500,131340.0,1767.0,0,Medium,None,Unfinished,one_story,2
+full,240000,196290.0,1454.0,1+,Medium,None,Unfinished,one_story,2
+full,234000,194990.0,1138.0,0,Small,None,Unfinished,one_story,2
+not_full,167000,127330.0,1027.0,0,Small,None,Unfinished,one_story,1
+not_full,436000,242980.0,2273.0,1+,Large,None,Formal rec room,one_story,2
+not_full,436000,242980.0,2273.0,1+,Large,None,Formal rec room,one_story,2
+full,205000,163280.0,1525.0,0,Medium,None,Unfinished,one_story,2
+full,250000,152240.0,1149.0,0,Small,None,Unfinished,one_story,1
+full,250000,170410.0,1149.0,0,Small,None,Unfinished,one_story,1
+full,416000,259450.0,2296.0,1+,Large,None,Unfinished,one_story,2
+full,302000,211540.0,1768.0,1+,Medium,None,Unfinished,one_story,2
+not_full,320000,168240.0,1075.0,1+,Small,Partial,Formal rec room,over_one_story,2
+not_full,320000,156740.0,1075.0,1+,Small,Partial,Formal rec room,over_one_story,2
+not_full,310000,228250.0,1826.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,309000,274680.0,1997.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,300000,332180.0,2430.0,1+,Large,None,Unfinished,one_story,2
+not_full,275000,304980.0,1266.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+full,252000,168330.0,1421.0,1+,Medium,None,Unfinished,one_story,1
+full,455000,188990.0,1986.0,1+,Medium-Large,None,Formal rec room,one_story,3+
+not_full,375000,243530.0,2369.0,1+,Large,None,Unfinished,one_story,2
+not_full,375000,243530.0,2369.0,1+,Large,None,Unfinished,one_story,2
+not_full,321000,176970.0,1600.0,1+,Medium,None,Formal rec room,over_one_story,2
+full,386000,404000.0,2148.0,0,Medium-Large,None,Unfinished,over_one_story,2
+not_full,165000,115800.0,1202.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,335000,239410.0,2124.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,175000,161500.0,1889.0,0,Medium-Large,None,Unfinished,one_story,3+
+full,175000,176580.0,1889.0,0,Medium-Large,None,Unfinished,one_story,3+
+full,242000,161500.0,1889.0,1+,Medium-Large,None,Unfinished,one_story,3+
+full,242000,176580.0,1889.0,1+,Medium-Large,None,Unfinished,one_story,3+
+full,234000,170670.0,1160.0,0,Small,None,Unfinished,one_story,1
+full,234000,149360.0,1160.0,0,Small,None,Unfinished,one_story,1
+not_full,140000,135430.0,1300.0,1+,Small-Medium,None,Formal rec room,one_story,1
+full,210000,131340.0,1767.0,0,Medium,None,Unfinished,one_story,2
+full,153900,125250.0,1250.0,1+,Small-Medium,None,Unfinished,one_story,1
+not_full,286000,149930.0,2155.0,1+,Medium-Large,None,Unfinished,one_story,1
+full,310000,154660.0,2021.0,0,Medium-Large,None,Unfinished,one_story,2
+full,337500,177520.0,1646.0,1+,Medium,None,Unfinished,one_story,2
+full,335000,297350.0,1873.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,253900,235660.0,1452.0,1+,Medium,None,Unfinished,one_story,2
+full,292000,242750.0,1657.0,1+,Medium,None,Unfinished,one_story,2
+full,292000,242750.0,1657.0,1+,Medium,None,Unfinished,one_story,2
+not_full,340000,270740.0,2273.0,0,Large,None,Formal rec room,one_story,2
+not_full,340000,253670.0,2273.0,0,Large,None,Formal rec room,one_story,2
+full,310000,274430.0,1997.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,310000,274430.0,1997.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,313000,274430.0,1997.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,313000,274430.0,1997.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,280000,258400.0,1139.0,1+,Small,None,Formal rec room,over_one_story,1
+full,280000,282550.0,2312.0,1+,Large,None,Unfinished,one_story,2
+not_full,355000,276330.0,2293.0,1+,Large,None,Unfinished,one_story,2
+not_full,300000,204080.0,1316.0,0,Small-Medium,None,Formal rec room,over_one_story,1
+full,330000,245530.0,2443.0,1+,Large,Partial,Unfinished,one_story,2
+full,245000,167990.0,1138.0,0,Small,None,Unfinished,one_story,1
+full,122500,117890.0,1034.0,0,Small,None,Unfinished,one_story,1
+full,274900,160280.0,1317.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,290000,225110.0,1324.0,0,Small-Medium,Partial,Formal rec room,over_one_story,2
+not_full,389000,215150.0,1075.0,0,Small,None,Formal rec room,over_one_story,1
+not_full,389000,193510.0,1075.0,0,Small,None,Formal rec room,over_one_story,1
+full,389000,280170.0,2323.0,1+,Large,None,Unfinished,one_story,2
+full,327500,214710.0,1306.0,0,Small-Medium,None,Formal rec room,one_story,2
+not_full,272500,223880.0,1319.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,420000,342460.0,2487.0,1+,Large,None,Unfinished,one_story,2
+full,180000,62300.0,1555.0,0,Medium,None,Unfinished,one_story,1
+not_full,260000,194560.0,1084.0,1+,Small,Partial,Formal rec room,over_one_story,2
+not_full,260000,151650.0,1258.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,307900,189970.0,1144.0,1+,Small,Partial,Formal rec room,one_story,1
+not_full,177510,133480.0,1422.0,0,Medium,None,Unfinished,one_story,1
+full,172900,125360.0,1250.0,1+,Small-Medium,None,Unfinished,one_story,1
+not_full,350000,264020.0,1888.0,0,Medium-Large,None,Unfinished,one_story,2
+full,305000,274660.0,1997.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,195000,147540.0,988.0,0,Small,None,Unfinished,one_story,1
+not_full,285000,123410.0,1831.0,1+,Medium-Large,None,Unfinished,one_story,1
+not_full,349000,292250.0,2514.0,1+,Large,None,Unfinished,one_story,2
+full,267450,169770.0,1188.0,0,Small,None,Unfinished,one_story,2
+full,418000,335850.0,2678.0,1+,Large,None,Unfinished,one_story,2
+not_full,370000,252370.0,1597.0,1+,Medium,None,Formal rec room,over_one_story,2
+not_full,274900,212770.0,1130.0,1+,Small,None,Formal rec room,over_one_story,1
+full,335000,293330.0,1997.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,318500,291620.0,1677.0,1+,Medium,None,Unfinished,one_story,2
+full,327900,207130.0,1798.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,360000,273560.0,2154.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,290100,152930.0,962.0,1+,Small,None,Formal rec room,one_story,1
+full,290100,192640.0,962.0,1+,Small,None,Formal rec room,one_story,1
+full,290100,194320.0,962.0,1+,Small,None,Formal rec room,one_story,1
+full,265000,229320.0,1712.0,1+,Medium,None,Unfinished,one_story,2
+full,327899,175640.0,1646.0,1+,Medium,None,Unfinished,one_story,2
+not_full,280000,160970.0,1005.0,1+,Small,None,Formal rec room,one_story,1
+not_full,520000,380870.0,3286.0,1+,Large,None,Formal rec room,one_story,2
+not_full,270000,175000.0,976.0,0,Small,None,Formal rec room,one_story,1
+not_full,278500,220830.0,1693.0,1+,Medium,None,Unfinished,one_story,2
+full,359000,167850.0,1330.0,1+,Small-Medium,Full,Unfinished,one_story,2
+not_full,252000,195900.0,1097.0,0,Small,Partial,Formal rec room,over_one_story,1
+full,370000,158010.0,976.0,0,Small,Partial,Unfinished,one_story,1
+full,370000,94750.0,976.0,0,Small,Partial,Unfinished,one_story,1
+full,430000,288690.0,2493.0,1+,Large,None,Unfinished,one_story,2
+not_full,335000,269020.0,1994.0,1+,Medium-Large,None,Formal rec room,over_one_story,2
+not_full,304900,251800.0,2008.0,1+,Medium-Large,None,Formal rec room,one_story,2
+not_full,304900,267180.0,2008.0,1+,Medium-Large,None,Formal rec room,one_story,2
+not_full,346500,251800.0,2008.0,1+,Medium-Large,None,Formal rec room,one_story,2
+not_full,346500,267180.0,2008.0,1+,Medium-Large,None,Formal rec room,one_story,2
+full,136500,125250.0,1250.0,0,Small-Medium,None,Unfinished,one_story,1
+full,175000,124200.0,1380.0,0,Small-Medium,Full,Unfinished,one_story,1
+full,230100,196520.0,1896.0,1+,Medium-Large,Full,Unfinished,one_story,1
+not_full,366400,277730.0,2350.0,1+,Large,None,Unfinished,one_story,2
+not_full,287000,167360.0,1084.0,0,Small,Partial,Formal rec room,over_one_story,1
+not_full,287000,182110.0,1084.0,0,Small,Partial,Formal rec room,over_one_story,1
+not_full,210500,203790.0,1175.0,1+,Small,None,Formal rec room,over_one_story,1
+full,470000,310250.0,2482.0,1+,Large,None,Formal rec room,one_story,2
+not_full,183000,158710.0,1422.0,1+,Medium,None,Unfinished,one_story,1
+full,307500,205220.0,1259.0,0,Small-Medium,None,Formal rec room,over_one_story,1
+full,307500,178740.0,1259.0,0,Small-Medium,None,Formal rec room,over_one_story,1
+full,127000,205180.0,1344.0,0,Small-Medium,Full,Unfinished,one_story,1
+full,127000,205180.0,1344.0,0,Small-Medium,Full,Unfinished,one_story,1
+full,264500,199620.0,1386.0,1+,Small-Medium,Full,Unfinished,one_story,1
+full,264500,199620.0,1386.0,1+,Small-Medium,Full,Unfinished,one_story,1
+full,264500,199620.0,1386.0,1+,Small-Medium,Full,Unfinished,one_story,1
+full,277500,199620.0,1386.0,1+,Small-Medium,Full,Unfinished,one_story,1
+full,277500,199620.0,1386.0,1+,Small-Medium,Full,Unfinished,one_story,1
+full,277500,199620.0,1386.0,1+,Small-Medium,Full,Unfinished,one_story,1
+not_full,412000,329560.0,2222.0,1+,Medium-Large,None,Formal rec room,one_story,3+
+not_full,352000,233060.0,2490.0,0,Large,None,Unfinished,one_story,2
+full,257251,260900.0,2265.0,0,Medium-Large,None,Unfinished,one_story,2
+full,257251,260900.0,2265.0,0,Medium-Large,None,Unfinished,one_story,2
+full,330000,260900.0,2265.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,330000,260900.0,2265.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,243000,153200.0,1140.0,1+,Small,None,Unfinished,one_story,1
+full,243000,153200.0,1140.0,1+,Small,None,Unfinished,one_story,1
+not_full,288500,208360.0,1655.0,1+,Medium,None,Formal rec room,one_story,2
+full,315000,92460.0,1496.0,1+,Medium,None,Formal rec room,one_story,2
+full,318500,204270.0,1972.0,1+,Medium-Large,Full,Unfinished,one_story,2
+full,318500,227170.0,1972.0,1+,Medium-Large,Full,Unfinished,one_story,2
+not_full,370000,313660.0,2530.0,1+,Large,None,Unfinished,one_story,2
+not_full,386000,278080.0,2302.0,1+,Large,None,Unfinished,one_story,2
+full,275000,170380.0,1615.0,1+,Medium,None,Unfinished,one_story,1
+full,455000,336880.0,2690.0,0,Large,None,Unfinished,one_story,2
+not_full,280000,209470.0,1396.0,0,Small-Medium,Full,Formal rec room,over_one_story,1
+not_full,280000,164030.0,1396.0,0,Small-Medium,Full,Formal rec room,over_one_story,1
+full,200000,169680.0,1140.0,0,Small,None,Unfinished,one_story,1
+full,327500,269290.0,2064.0,1+,Medium-Large,Partial,Unfinished,one_story,3+
+not_full,345000,284740.0,1981.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,370000,301180.0,1873.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,370000,301180.0,1873.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,250000,171590.0,976.0,0,Small,None,Unfinished,one_story,1
+not_full,575100,310100.0,2204.0,1+,Medium-Large,None,Formal rec room,one_story,2
+not_full,293000,208810.0,1114.0,0,Small,None,Formal rec room,over_one_story,1
+full,285000,191010.0,1246.0,0,Small-Medium,Partial,Formal rec room,one_story,1
+not_full,292000,245700.0,1266.0,0,Small-Medium,Partial,Formal rec room,over_one_story,1
+full,338000,278590.0,1828.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,125000,130130.0,1428.0,0,Medium,None,Unfinished,one_story,1
+full,125000,149180.0,1428.0,0,Medium,None,Unfinished,one_story,1
+full,142800,179850.0,1282.0,0,Small-Medium,None,Formal rec room,one_story,1
+full,276500,172410.0,1346.0,0,Small-Medium,None,Unfinished,one_story,1
+full,276500,172410.0,1346.0,0,Small-Medium,None,Unfinished,one_story,1
+full,290100,205210.0,1575.0,1+,Medium,Partial,Unfinished,one_story,1
+not_full,280000,295380.0,1601.0,1+,Medium,None,Formal rec room,over_one_story,2
+full,392000,286720.0,2406.0,0,Large,None,Unfinished,one_story,1
+full,392000,256700.0,2406.0,0,Large,None,Unfinished,one_story,1
+full,180000,117760.0,1312.0,1+,Small-Medium,None,Unfinished,one_story,1
+not_full,277000,223240.0,1268.0,0,Small-Medium,Partial,Formal rec room,over_one_story,2
+full,285900,227500.0,1816.0,0,Medium-Large,None,Unfinished,one_story,2
+full,301000,248840.0,2264.0,0,Medium-Large,None,Unfinished,one_story,2
+not_full,336000,237190.0,1734.0,0,Medium,None,Formal rec room,one_story,2
+not_full,255000,171290.0,984.0,0,Small,None,Formal rec room,one_story,1
+not_full,255000,171290.0,984.0,0,Small,None,Formal rec room,one_story,1
+not_full,164500,112650.0,1202.0,1+,Small-Medium,None,Unfinished,one_story,1
+not_full,164500,137510.0,1202.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,360000,235510.0,1730.0,1+,Medium,None,Unfinished,one_story,2
+full,309000,268490.0,1536.0,1+,Medium,None,Formal rec room,one_story,2
+full,163000,99100.0,1034.0,0,Small,None,Unfinished,one_story,1
+full,163000,99100.0,1034.0,0,Small,None,Unfinished,one_story,1
+full,163000,117010.0,1034.0,0,Small,None,Unfinished,one_story,1
+full,179900,99750.0,1686.0,0,Medium,None,Unfinished,over_one_story,1
+full,179900,130960.0,1686.0,0,Medium,None,Unfinished,over_one_story,1
+full,207500,144780.0,1490.0,0,Medium,Partial,Unfinished,one_story,2
+full,207500,144780.0,1490.0,0,Medium,Partial,Unfinished,one_story,2
+not_full,310000,166180.0,1186.0,0,Small,None,Formal rec room,one_story,2
+not_full,310000,189050.0,1186.0,0,Small,None,Formal rec room,one_story,2
+not_full,295000,226170.0,1246.0,1+,Small-Medium,Partial,Formal rec room,over_one_story,2
+not_full,295000,206540.0,1246.0,1+,Small-Medium,Partial,Formal rec room,over_one_story,2
+not_full,308000,225350.0,1692.0,1+,Medium,None,Unfinished,one_story,3+
+not_full,308000,190040.0,1692.0,1+,Medium,None,Unfinished,one_story,3+
+not_full,308000,196270.0,1692.0,1+,Medium,None,Unfinished,one_story,3+
+not_full,270000,197390.0,1186.0,1+,Small,Partial,Formal rec room,over_one_story,2
+full,146000,117890.0,1034.0,0,Small,None,Unfinished,one_story,1
+full,146000,117890.0,1034.0,0,Small,None,Unfinished,one_story,1
+not_full,285800,223330.0,1774.0,0,Medium,None,Unfinished,one_story,1
+not_full,295000,219130.0,1114.0,1+,Small,None,Formal rec room,over_one_story,1
+not_full,295000,159750.0,1114.0,1+,Small,None,Formal rec room,over_one_story,1
+full,260000,212770.0,1629.0,0,Medium,None,Unfinished,one_story,2
+full,260000,212770.0,1629.0,0,Medium,None,Unfinished,one_story,2
+not_full,310000,188350.0,1186.0,1+,Small,Partial,Formal rec room,one_story,1
+not_full,310000,165230.0,1186.0,1+,Small,Partial,Formal rec room,one_story,1
+not_full,310000,165230.0,1186.0,1+,Small,Partial,Formal rec room,one_story,1
+not_full,243000,169980.0,1075.0,0,Small,None,Formal rec room,over_one_story,1
+not_full,243000,189440.0,1075.0,0,Small,None,Formal rec room,over_one_story,1
+full,427500,355070.0,2493.0,1+,Large,None,Unfinished,one_story,2
+full,289000,155820.0,1305.0,1+,Small-Medium,None,Unfinished,one_story,2
+full,350000,224330.0,1620.0,0,Medium,None,Unfinished,one_story,2
+full,350000,196340.0,1620.0,0,Medium,None,Unfinished,one_story,2
+full,104600,138660.0,1350.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,130000,130620.0,1689.0,0,Medium,None,Unfinished,over_one_story,1
+full,368000,263540.0,1948.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,430000,299970.0,2424.0,1+,Large,None,Formal rec room,one_story,2
+full,269000,183050.0,1386.0,1+,Small-Medium,Partial,Unfinished,one_story,1
+not_full,220000,172350.0,1654.0,0,Medium,None,Unfinished,one_story,2
+full,287000,225510.0,1925.0,1+,Medium-Large,None,Formal rec room,one_story,1
+full,138000,128360.0,1250.0,0,Small-Medium,None,Unfinished,one_story,1
+full,225500,176870.0,1767.0,0,Medium,None,Unfinished,one_story,2
+full,225000,160230.0,1142.0,1+,Small,None,Unfinished,one_story,2
+full,209500,164200.0,1160.0,0,Small,None,Unfinished,one_story,1
+not_full,175000,206040.0,1496.0,1+,Medium,None,Unfinished,one_story,1
+not_full,320000,241210.0,1900.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,170000,131340.0,1065.0,1+,Small,None,Unfinished,one_story,2
+full,275900,127500.0,1212.0,0,Small-Medium,None,Unfinished,one_story,2
+full,275900,180780.0,1212.0,0,Small-Medium,None,Unfinished,one_story,2
+not_full,353000,82470.0,1559.0,0,Medium,None,Formal rec room,over_one_story,1
+not_full,353000,127080.0,1559.0,0,Medium,None,Formal rec room,over_one_story,1
+full,176000,125970.0,1065.0,0,Small,None,Unfinished,one_story,2
+not_full,333000,260560.0,1448.0,1+,Medium,None,Formal rec room,over_one_story,1
+full,399900,301060.0,2855.0,1+,Large,None,Unfinished,one_story,3+
+full,399900,245530.0,2855.0,1+,Large,None,Unfinished,one_story,3+
+not_full,176000,138930.0,1300.0,1+,Small-Medium,None,Formal rec room,one_story,1
+full,273500,207870.0,1485.0,1+,Medium,None,Unfinished,one_story,2
+not_full,149900,136090.0,1300.0,1+,Small-Medium,Full,Formal rec room,one_story,1
+full,375000,268070.0,2224.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,375000,197710.0,2224.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,247500,203730.0,1454.0,1+,Medium,None,Unfinished,one_story,2
+full,247500,224640.0,1454.0,1+,Medium,None,Unfinished,one_story,2
+full,175000,134290.0,1023.0,0,Small,None,Unfinished,one_story,1
+full,300000,212730.0,1845.0,0,Medium-Large,Full,Unfinished,over_one_story,1
+not_full,168000,139150.0,1116.0,1+,Small,None,Unfinished,one_story,1
+full,575000,350200.0,3251.0,1+,Large,None,Unfinished,one_story,2
+full,190000,115360.0,1176.0,0,Small,None,Unfinished,one_story,1
+full,292500,178250.0,1295.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,420000,342830.0,2484.0,1+,Large,None,Formal rec room,one_story,2
+full,369000,321780.0,2712.0,1+,Large,Partial,Unfinished,one_story,3+
+full,315000,235460.0,1730.0,1+,Medium,None,Unfinished,one_story,2
+full,315000,203080.0,1730.0,1+,Medium,None,Unfinished,one_story,2
+not_full,392500,311620.0,2548.0,1+,Large,Partial,Unfinished,one_story,2
+full,230500,205600.0,1142.0,1+,Small,None,Unfinished,one_story,2
+full,230500,170550.0,1142.0,1+,Small,None,Unfinished,one_story,2
+not_full,180000,138930.0,1300.0,0,Small-Medium,None,Formal rec room,one_story,1
+full,115000,196430.0,1292.0,1+,Small-Medium,None,Unfinished,one_story,2
+full,128000,153260.0,1480.0,1+,Medium,None,Unfinished,one_story,1
+not_full,380000,286730.0,2391.0,0,Large,None,Unfinished,one_story,2
+not_full,380000,286730.0,2391.0,0,Large,None,Unfinished,one_story,2
+not_full,459000,206520.0,2433.0,0,Large,None,Unfinished,one_story,2
+not_full,355000,233700.0,1994.0,1+,Medium-Large,None,Formal rec room,one_story,2
+full,317500,246520.0,2075.0,1+,Medium-Large,None,Unfinished,one_story,1
+full,320000,219630.0,1475.0,1+,Medium,None,Unfinished,one_story,2
+full,317000,252830.0,1716.0,1+,Medium,None,Unfinished,one_story,1
+not_full,374000,356470.0,2502.0,1+,Large,None,Unfinished,one_story,2
+not_full,238000,228540.0,1326.0,0,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,337000,303740.0,2290.0,1+,Large,None,Unfinished,one_story,2
+full,240000,176010.0,1120.0,0,Small,Partial,Unfinished,one_story,1
+full,161000,153560.0,1480.0,0,Medium,None,Unfinished,one_story,1
+full,220000,197020.0,1210.0,0,Small-Medium,None,Unfinished,one_story,1
+full,162500,103710.0,1027.0,0,Small,None,Unfinished,one_story,1
+not_full,235000,205200.0,1030.0,0,Small,None,Formal rec room,over_one_story,1
+not_full,235000,183140.0,1030.0,0,Small,None,Formal rec room,over_one_story,1
+not_full,395000,287540.0,2380.0,1+,Large,None,Unfinished,one_story,2
+full,375000,198650.0,2260.0,1+,Medium-Large,None,Unfinished,one_story,1
+full,350000,183290.0,1672.0,0,Medium,None,Unfinished,one_story,2
+full,350000,219380.0,1672.0,0,Medium,None,Unfinished,one_story,2
+full,350000,183290.0,1672.0,0,Medium,None,Unfinished,one_story,2
+not_full,268500,198880.0,1075.0,1+,Small,None,Formal rec room,over_one_story,2
+full,150000,198530.0,1320.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,296000,55110.0,1580.0,0,Medium,None,Unfinished,one_story,2
+full,265000,189300.0,1284.0,0,Small-Medium,None,Unfinished,one_story,1
+full,377000,266370.0,2383.0,1+,Large,None,Unfinished,one_story,2
+not_full,340000,249830.0,1676.0,1+,Medium,None,Unfinished,one_story,2
+not_full,366000,189200.0,3349.0,1+,Large,None,Formal rec room,one_story,2
+full,175000,141730.0,1023.0,0,Small,None,Unfinished,one_story,1
+full,270000,195070.0,1673.0,0,Medium,None,Unfinished,one_story,2
+not_full,297000,190020.0,1143.0,0,Small,None,Unfinished,one_story,2
+not_full,422600,306060.0,2163.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,172000,146050.0,1178.0,0,Small,None,Unfinished,one_story,1
+full,316000,216990.0,1844.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,295000,147840.0,976.0,1+,Small,Partial,Unfinished,one_story,1
+not_full,265000,201080.0,1186.0,1+,Small,None,Formal rec room,one_story,2
+full,360000,295970.0,2212.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,308000,252970.0,1266.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,294000,236630.0,1138.0,0,Small,None,Formal rec room,over_one_story,2
+full,310000,276500.0,2325.0,1+,Large,None,Unfinished,one_story,2
+full,390000,289780.0,2313.0,1+,Large,None,Unfinished,one_story,2
+full,205000,129940.0,1766.0,1+,Medium,None,Unfinished,one_story,2
+full,345000,377890.0,2016.0,0,Medium-Large,None,Unfinished,over_one_story,1
+full,265000,170060.0,1806.0,1+,Medium-Large,None,Unfinished,one_story,1
+full,265000,208400.0,1806.0,1+,Medium-Large,None,Unfinished,one_story,1
+not_full,400000,287100.0,2677.0,1+,Large,Full,Unfinished,one_story,2
+not_full,230000,218070.0,1268.0,1+,Small-Medium,None,Formal rec room,over_one_story,2
+full,294500,190330.0,1144.0,0,Small,None,Formal rec room,one_story,2
+full,294500,190330.0,1144.0,0,Small,None,Formal rec room,one_story,2
+not_full,322000,225550.0,1268.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,210000,197110.0,1126.0,0,Small,None,Formal rec room,over_one_story,1
+not_full,249900,197010.0,1715.0,0,Medium,None,Unfinished,one_story,1
+full,425000,194120.0,1570.0,1+,Medium,None,Unfinished,one_story,2
+full,425000,112850.0,1570.0,1+,Medium,None,Unfinished,one_story,2
+not_full,423000,292650.0,2234.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,276000,215500.0,1619.0,1+,Medium,None,Unfinished,one_story,2
+not_full,340000,177470.0,1286.0,0,Small-Medium,Partial,Formal rec room,over_one_story,1
+not_full,340000,177470.0,1286.0,0,Small-Medium,Partial,Formal rec room,over_one_story,1
+not_full,303000,261990.0,2012.0,0,Medium-Large,Partial,Formal rec room,one_story,2
+full,460000,316240.0,2774.0,1+,Large,None,Unfinished,one_story,2
+full,405000,323500.0,3631.0,0,Large,None,Unfinished,one_story,2
+full,135000,99580.0,1080.0,0,Small,None,Unfinished,one_story,1
+full,305000,207280.0,1672.0,1+,Medium,None,Unfinished,one_story,2
+full,270000,215140.0,1582.0,1+,Medium,None,Unfinished,one_story,2
+not_full,405000,343190.0,2214.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,128000,178660.0,1889.0,0,Medium-Large,None,Unfinished,one_story,3+
+full,232000,110660.0,1745.0,1+,Medium,None,Unfinished,one_story,1
+not_full,290000,190320.0,1082.0,1+,Small,None,Formal rec room,over_one_story,1
+not_full,292500,165000.0,1100.0,1+,Small,None,Formal rec room,over_one_story,2
+full,191000,153340.0,1480.0,1+,Medium,None,Unfinished,one_story,1
+full,144166,79520.0,1315.0,1+,Small-Medium,None,Formal rec room,one_story,1
+full,342500,187000.0,1475.0,0,Medium,None,Unfinished,one_story,2
+full,342500,221010.0,1475.0,0,Medium,None,Unfinished,one_story,2
+full,280000,193600.0,1386.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,243000,181050.0,1144.0,1+,Small,None,Unfinished,one_story,1
+full,380000,197880.0,1186.0,1+,Small,None,Formal rec room,one_story,1
+full,405000,58660.0,2712.0,1+,Large,Partial,Unfinished,one_story,3+
+full,420000,277340.0,1720.0,1+,Medium,None,Unfinished,one_story,2
+full,307000,186270.0,1712.0,1+,Medium,None,Unfinished,one_story,2
+full,299000,247170.0,1708.0,1+,Medium,None,Unfinished,one_story,1
+not_full,315000,246160.0,2022.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,149000,140160.0,1378.0,1+,Small-Medium,Full,Unfinished,one_story,1
+not_full,273000,177630.0,960.0,0,Small,None,Formal rec room,one_story,1
+full,360000,216140.0,2383.0,1+,Large,None,Unfinished,one_story,2
+full,360000,263570.0,2383.0,1+,Large,None,Unfinished,one_story,2
+not_full,375000,212010.0,1288.0,1+,Small-Medium,None,Formal rec room,over_one_story,2
+not_full,282500,169110.0,1084.0,0,Small,None,Formal rec room,over_one_story,1
+full,430000,272900.0,2636.0,1+,Large,None,Unfinished,one_story,2
+full,400000,279790.0,2448.0,1+,Large,None,Unfinished,one_story,2
+full,115000,128250.0,1250.0,0,Small-Medium,None,Unfinished,one_story,1
+full,230000,174200.0,1140.0,0,Small,None,Unfinished,one_story,1
+full,309900,245100.0,1708.0,1+,Medium,None,Unfinished,one_story,2
+full,285000,194190.0,1210.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,295000,213420.0,1268.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,295000,213420.0,1268.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,300000,213420.0,1268.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,300000,213420.0,1268.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,238000,174710.0,1697.0,1+,Medium,None,Unfinished,one_story,1
+full,308000,160740.0,1140.0,0,Small,None,Unfinished,one_story,1
+full,308000,200410.0,1140.0,0,Small,None,Unfinished,one_story,1
+not_full,290000,202550.0,1607.0,0,Medium,None,Unfinished,one_story,2
+not_full,168000,124630.0,1371.0,0,Small-Medium,Full,Unfinished,over_one_story,1
+full,301000,178070.0,1417.0,1+,Medium,None,Unfinished,one_story,1
+not_full,285500,208830.0,1268.0,0,Small-Medium,Partial,Formal rec room,over_one_story,2
+full,201030,167670.0,1268.0,1+,Small-Medium,None,Unfinished,one_story,1
+not_full,400000,208510.0,1471.0,1+,Medium,None,Formal rec room,over_one_story,1
+not_full,400000,208510.0,1471.0,1+,Medium,None,Formal rec room,over_one_story,1
+not_full,400000,236540.0,1471.0,1+,Medium,None,Formal rec room,over_one_story,1
+not_full,335000,302520.0,1618.0,1+,Medium,None,Formal rec room,over_one_story,3+
+not_full,174000,158430.0,1202.0,0,Small-Medium,None,Unfinished,one_story,1
+full,387500,408790.0,3056.0,1+,Large,None,Unfinished,one_story,2
+full,367000,238770.0,2274.0,1+,Large,None,Unfinished,one_story,2
+full,220000,168400.0,1142.0,1+,Small,None,Unfinished,one_story,2
+full,220000,168400.0,1142.0,1+,Small,None,Unfinished,one_story,2
+full,223000,168400.0,1142.0,1+,Small,None,Unfinished,one_story,2
+full,223000,168400.0,1142.0,1+,Small,None,Unfinished,one_story,2
+full,280000,204650.0,1184.0,1+,Small,None,Formal rec room,one_story,1
+not_full,352500,304190.0,1918.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,268000,214830.0,1714.0,1+,Medium,None,Unfinished,one_story,2
+full,217700,133360.0,1686.0,1+,Medium,None,Unfinished,over_one_story,1
+full,257500,155930.0,1120.0,1+,Small,Partial,Unfinished,one_story,1
+full,257500,169260.0,1120.0,1+,Small,Partial,Unfinished,one_story,1
+full,339900,178100.0,988.0,0,Small,None,Unfinished,one_story,1
+full,252500,216750.0,1141.0,0,Small,None,Unfinished,one_story,1
+not_full,485000,332090.0,2886.0,1+,Large,Partial,Unfinished,one_story,2
+not_full,485000,332090.0,2886.0,1+,Large,Partial,Unfinished,one_story,2
+not_full,432500,256900.0,1896.0,1+,Medium-Large,None,Unfinished,one_story,1
+not_full,266500,212780.0,1150.0,1+,Small,None,Formal rec room,over_one_story,1
+not_full,207000,185530.0,1274.0,0,Small-Medium,None,Formal rec room,one_story,1
+not_full,207000,185530.0,1274.0,0,Small-Medium,None,Formal rec room,one_story,1
+not_full,344950,185530.0,1274.0,1+,Small-Medium,None,Formal rec room,one_story,1
+not_full,344950,185530.0,1274.0,1+,Small-Medium,None,Formal rec room,one_story,1
+full,320000,350610.0,2351.0,1+,Large,None,Unfinished,one_story,2
+full,285000,218410.0,1784.0,0,Medium-Large,None,Unfinished,one_story,2
+full,350000,318570.0,2323.0,1+,Large,None,Unfinished,one_story,2
+not_full,405000,241660.0,2048.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,212500,156750.0,1525.0,1+,Medium,None,Unfinished,one_story,2
+full,350000,116660.0,1960.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,350000,91140.0,1960.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,350000,116660.0,1960.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,425000,116660.0,1960.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,425000,91140.0,1960.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,425000,116660.0,1960.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,265000,203410.0,1103.0,0,Small,None,Formal rec room,over_one_story,1
+full,272500,271260.0,2076.0,1+,Medium-Large,None,Unfinished,one_story,3+
+not_full,176500,119730.0,1202.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,176500,145880.0,1202.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,462000,241220.0,2280.0,1+,Large,None,Formal rec room,one_story,3+
+full,305000,161980.0,1518.0,1+,Medium,None,Unfinished,one_story,2
+full,305000,161980.0,1518.0,1+,Medium,None,Unfinished,one_story,2
+full,305000,161980.0,1518.0,1+,Medium,None,Unfinished,one_story,2
+not_full,173000,135590.0,1300.0,0,Small-Medium,None,Formal rec room,one_story,1
+full,290000,302610.0,2678.0,1+,Large,None,Unfinished,one_story,2
+full,385100,273990.0,2681.0,0,Large,None,Unfinished,one_story,2
+not_full,340000,268750.0,1686.0,0,Medium,None,Unfinished,one_story,2
+not_full,340000,192550.0,1686.0,0,Medium,None,Unfinished,one_story,2
+not_full,306000,178650.0,1126.0,0,Small,None,Formal rec room,over_one_story,1
+not_full,306000,203310.0,1126.0,0,Small,None,Formal rec room,over_one_story,1
+not_full,306000,203310.0,1126.0,0,Small,None,Formal rec room,over_one_story,1
+full,260000,173500.0,1359.0,1+,Small-Medium,Full,Unfinished,one_story,1
+full,260000,199290.0,1359.0,1+,Small-Medium,Full,Unfinished,one_story,1
+not_full,300000,177270.0,965.0,0,Small,None,Formal rec room,one_story,1
+full,360000,260340.0,2383.0,0,Large,None,Unfinished,one_story,1
+not_full,340000,206820.0,1200.0,1+,Small-Medium,None,Formal rec room,one_story,2
+not_full,340000,229590.0,1200.0,1+,Small-Medium,None,Formal rec room,one_story,2
+full,98500,102820.0,1027.0,0,Small,None,Unfinished,one_story,1
+full,98500,102820.0,1027.0,0,Small,None,Unfinished,one_story,1
+full,149900,102820.0,1027.0,1+,Small,None,Unfinished,one_story,1
+full,149900,102820.0,1027.0,1+,Small,None,Unfinished,one_story,1
+full,188000,118130.0,962.0,0,Small,None,Unfinished,one_story,1
+full,220500,107090.0,1525.0,1+,Medium,None,Unfinished,one_story,2
+not_full,415000,253050.0,1994.0,0,Medium-Large,None,Formal rec room,one_story,2
+not_full,415000,234030.0,1994.0,0,Medium-Large,None,Formal rec room,one_story,2
+not_full,289000,88570.0,1913.0,0,Medium-Large,None,Unfinished,one_story,2
+full,330000,241540.0,2307.0,1+,Large,None,Unfinished,one_story,2
+full,355000,292160.0,2248.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,329900,212130.0,1546.0,1+,Medium,None,Unfinished,one_story,2
+full,270000,202330.0,1391.0,1+,Small-Medium,None,Unfinished,one_story,2
+not_full,340000,254990.0,1872.0,1+,Medium-Large,Partial,Formal rec room,over_one_story,1
+not_full,412500,310940.0,2317.0,1+,Large,None,Formal rec room,one_story,2
+not_full,296000,264910.0,2567.0,1+,Large,None,Unfinished,one_story,2
+full,276000,176890.0,1210.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,215000,161890.0,1889.0,1+,Medium-Large,None,Unfinished,one_story,3+
+full,215000,177090.0,1889.0,1+,Medium-Large,None,Unfinished,one_story,3+
+full,220000,199780.0,1454.0,1+,Medium,None,Unfinished,one_story,2
+full,315000,259550.0,1954.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,257500,197870.0,1292.0,1+,Small-Medium,None,Unfinished,one_story,2
+not_full,295000,218560.0,1268.0,1+,Small-Medium,Partial,Formal rec room,over_one_story,1
+not_full,295000,216840.0,1268.0,1+,Small-Medium,Partial,Formal rec room,over_one_story,1
+full,136500,128250.0,1250.0,0,Small-Medium,None,Unfinished,one_story,1
+full,525000,278280.0,2424.0,1+,Large,None,Unfinished,one_story,2
+not_full,315000,207700.0,1075.0,0,Small,None,Formal rec room,over_one_story,2
+full,306000,278500.0,1997.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,161000,140050.0,1103.0,1+,Small,None,Unfinished,one_story,1
+full,285000,204280.0,1452.0,1+,Medium,None,Unfinished,one_story,2
+not_full,269000,218530.0,1120.0,0,Small,None,Formal rec room,over_one_story,1
+not_full,275000,199040.0,1186.0,0,Small,None,Unfinished,one_story,2
+full,328000,218790.0,1980.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,328000,265790.0,1980.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,355000,254970.0,2420.0,0,Large,None,Unfinished,one_story,2
+full,355000,254970.0,2420.0,0,Large,None,Unfinished,one_story,2
+not_full,397500,313560.0,1840.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,397500,240090.0,1840.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,355000,189500.0,1747.0,1+,Medium,None,Unfinished,one_story,2
+not_full,444000,281730.0,2351.0,1+,Large,None,Unfinished,one_story,2
+not_full,290000,190330.0,1573.0,1+,Medium,None,Unfinished,one_story,2
+full,138500,175790.0,1160.0,0,Small,None,Unfinished,one_story,1
+full,380000,330080.0,2351.0,0,Large,None,Unfinished,one_story,2
+full,285000,236080.0,1792.0,1+,Medium-Large,None,Unfinished,one_story,1
+full,185000,131510.0,1686.0,1+,Medium,None,Unfinished,over_one_story,1
+full,185000,117240.0,1686.0,1+,Medium,None,Unfinished,over_one_story,1
+full,245000,234040.0,1141.0,0,Small,None,Unfinished,one_story,1
+not_full,306000,200310.0,1097.0,1+,Small,None,Formal rec room,over_one_story,1
+not_full,344500,158890.0,1075.0,1+,Small,Partial,Formal rec room,over_one_story,1
+not_full,344500,181460.0,1075.0,1+,Small,Partial,Formal rec room,over_one_story,1
+full,392000,272470.0,2593.0,1+,Large,None,Unfinished,one_story,2
+not_full,180000,212560.0,1268.0,1+,Small-Medium,None,Formal rec room,one_story,1
+full,352500,317320.0,2016.0,0,Medium-Large,None,Unfinished,over_one_story,1
+full,300000,45080.0,1431.0,1+,Medium,None,Unfinished,one_story,1
+not_full,260000,188810.0,1100.0,0,Small,None,Formal rec room,over_one_story,1
+full,365000,237570.0,1429.0,1+,Medium,None,Formal rec room,one_story,2
+full,187000,175080.0,1678.0,0,Medium,None,Unfinished,one_story,2
+not_full,260000,222830.0,1549.0,1+,Medium,None,Formal rec room,over_one_story,1
+full,371500,286950.0,2294.0,1+,Large,None,Unfinished,one_story,2
+full,281000,171660.0,1816.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,281000,149540.0,1816.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,214000,172430.0,1140.0,0,Small,Full,Unfinished,one_story,1
+full,317000,220980.0,1985.0,1+,Medium-Large,None,Unfinished,one_story,1
+not_full,322500,238240.0,1163.0,1+,Small,None,Formal rec room,over_one_story,1
+full,332000,352580.0,3019.0,1+,Large,None,Unfinished,one_story,2
+full,313000,236770.0,1786.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,313000,234480.0,1786.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,290000,29380.0,1071.0,1+,Small,None,Unfinished,one_story,1
+not_full,290000,29380.0,1071.0,1+,Small,None,Unfinished,one_story,1
+full,295000,229300.0,1939.0,1+,Medium-Large,Full,Unfinished,over_one_story,2
+full,369000,233520.0,2634.0,0,Large,Full,Unfinished,over_one_story,3+
+full,369000,193510.0,2634.0,0,Large,Full,Unfinished,over_one_story,3+
+not_full,269900,235520.0,1994.0,1+,Medium-Large,Partial,Formal rec room,one_story,2
+not_full,269900,257680.0,1994.0,1+,Medium-Large,Partial,Formal rec room,one_story,2
+not_full,330000,257400.0,1980.0,1+,Medium-Large,None,Formal rec room,one_story,2
+full,298000,182900.0,1239.0,0,Small-Medium,Full,Unfinished,one_story,1
+full,385000,321460.0,2690.0,1+,Large,None,Unfinished,one_story,2
+full,343000,234550.0,1880.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,354000,230070.0,1922.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,192500,139680.0,962.0,0,Small,Partial,Unfinished,one_story,1
+full,192500,169070.0,962.0,0,Small,Partial,Unfinished,one_story,1
+full,407500,298740.0,2298.0,1+,Large,None,Unfinished,one_story,1
+not_full,333000,252270.0,1290.0,1+,Small-Medium,None,Unfinished,one_story,2
+full,338000,312500.0,2218.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,265000,227710.0,1391.0,1+,Small-Medium,None,Unfinished,one_story,2
+full,265000,195570.0,1391.0,1+,Small-Medium,None,Unfinished,one_story,2
+not_full,305000,256040.0,1137.0,1+,Small,None,Formal rec room,over_one_story,1
+not_full,414000,349960.0,2163.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,167000,123520.0,962.0,1+,Small,Full,Unfinished,one_story,1
+not_full,312000,217230.0,2300.0,1+,Large,None,Unfinished,one_story,2
+full,218000,168420.0,1142.0,1+,Small,None,Unfinished,one_story,2
+full,152000,117080.0,1338.0,1+,Small-Medium,None,Unfinished,one_story,1
+not_full,405000,296490.0,2266.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,142000,125250.0,1250.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,280000,189220.0,1075.0,0,Small,Partial,Formal rec room,over_one_story,1
+not_full,375000,272380.0,2273.0,1+,Large,None,Formal rec room,one_story,2
+full,102000,125250.0,1250.0,0,Small-Medium,None,Unfinished,one_story,1
+full,102000,125250.0,1250.0,0,Small-Medium,None,Unfinished,one_story,1
+full,168000,125250.0,1250.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,168000,125250.0,1250.0,1+,Small-Medium,None,Unfinished,one_story,1
+not_full,320000,213620.0,1232.0,0,Small-Medium,None,Formal rec room,over_one_story,1
+full,255000,177500.0,988.0,1+,Small,Partial,Formal rec room,one_story,1
+full,195000,153380.0,1196.0,1+,Small-Medium,None,Unfinished,one_story,1
+not_full,320000,249380.0,1549.0,0,Medium,None,Unfinished,over_one_story,2
+full,312500,220360.0,2076.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,312500,220360.0,2076.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,275000,220360.0,2076.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,275000,220360.0,2076.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,495000,183150.0,2502.0,1+,Large,None,Formal rec room,over_one_story,2
+full,275000,115630.0,1886.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,270000,189360.0,1386.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,223500,157440.0,1782.0,1+,Medium-Large,None,Unfinished,one_story,1
+full,255000,223190.0,1886.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,312000,314260.0,2380.0,1+,Large,None,Unfinished,one_story,2
+not_full,312000,314260.0,2380.0,1+,Large,None,Unfinished,one_story,2
+full,182400,153590.0,1480.0,1+,Medium,None,Unfinished,one_story,1
+full,239000,172680.0,1278.0,1+,Small-Medium,None,Unfinished,one_story,2
+not_full,355000,175490.0,1167.0,1+,Small,Partial,Formal rec room,one_story,1
+not_full,355000,147980.0,1167.0,1+,Small,Partial,Formal rec room,one_story,1
+full,358000,240420.0,1942.0,1+,Medium-Large,None,Unfinished,one_story,1
+not_full,200000,174590.0,1422.0,1+,Medium,None,Unfinished,one_story,1
+full,340000,295980.0,2448.0,1+,Large,None,Unfinished,one_story,2
+full,340000,215910.0,2448.0,1+,Large,None,Unfinished,one_story,2
+full,340000,259490.0,2448.0,1+,Large,None,Unfinished,one_story,2
+not_full,222500,200740.0,1075.0,0,Small,None,Formal rec room,over_one_story,2
+not_full,297500,254450.0,2280.0,1+,Large,None,Formal rec room,one_story,2
+full,235000,184970.0,984.0,0,Small,None,Formal rec room,one_story,1
+not_full,401527,380840.0,3012.0,1+,Large,Full,Unfinished,one_story,1
+not_full,401527,341680.0,3012.0,1+,Large,Full,Unfinished,one_story,1
+full,178000,154550.0,1176.0,0,Small,None,Unfinished,one_story,2
+full,275000,29620.0,1375.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,300000,281850.0,2468.0,1+,Large,Partial,Unfinished,one_story,2
+not_full,300000,134650.0,1144.0,1+,Small,None,Formal rec room,one_story,1
+not_full,285000,188680.0,1103.0,0,Small,None,Formal rec room,over_one_story,1
+not_full,290000,172000.0,1100.0,0,Small,None,Formal rec room,over_one_story,1
+not_full,266000,203410.0,1050.0,0,Small,None,Formal rec room,over_one_story,1
+full,229000,148990.0,962.0,1+,Small,None,Unfinished,one_story,1
+full,350000,229020.0,1827.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,348000,315110.0,2148.0,1+,Medium-Large,None,Unfinished,over_one_story,2
+full,275000,259590.0,2332.0,0,Large,None,Unfinished,one_story,3+
+not_full,306000,215450.0,1294.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,306000,201810.0,1294.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+full,175500,139040.0,1360.0,1+,Small-Medium,None,Formal rec room,one_story,1
+not_full,410000,319660.0,2493.0,1+,Large,None,Unfinished,one_story,2
+not_full,375000,278070.0,2015.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,258000,193860.0,1488.0,1+,Medium,None,Unfinished,one_story,2
+full,258000,216270.0,1488.0,1+,Medium,None,Unfinished,one_story,2
+not_full,330000,274180.0,1763.0,1+,Medium,None,Unfinished,one_story,2
+not_full,286900,198060.0,1268.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,317000,87880.0,1403.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,317000,87880.0,1403.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,355000,87880.0,1403.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,355000,87880.0,1403.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+full,217500,160180.0,1324.0,0,Small-Medium,None,Formal rec room,one_story,1
+not_full,350000,236930.0,1548.0,1+,Medium,None,Unfinished,one_story,2
+full,315000,150980.0,1120.0,0,Small,None,Unfinished,one_story,1
+full,350000,267990.0,2409.0,1+,Large,None,Unfinished,one_story,2
+full,414000,199490.0,1262.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,414000,137410.0,1262.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,172000,128660.0,1250.0,1+,Small-Medium,None,Unfinished,one_story,2
+not_full,280000,176110.0,1126.0,0,Small,None,Formal rec room,over_one_story,1
+full,281100,270180.0,2409.0,1+,Large,None,Unfinished,one_story,2
+full,315500,178510.0,1591.0,1+,Medium,None,Unfinished,one_story,2
+full,336500,254540.0,2378.0,0,Large,None,Unfinished,one_story,2
+full,435000,289920.0,2638.0,1+,Large,None,Unfinished,one_story,2
+full,274000,213110.0,1565.0,0,Medium,None,Unfinished,one_story,1
+full,147000,115370.0,1350.0,0,Small-Medium,None,Unfinished,one_story,1
+full,167000,126960.0,1525.0,1+,Medium,None,Unfinished,one_story,2
+not_full,297500,188670.0,1165.0,0,Small,None,Formal rec room,one_story,1
+not_full,297500,171230.0,1165.0,0,Small,None,Formal rec room,one_story,1
+not_full,275000,153340.0,1186.0,1+,Small,None,Formal rec room,one_story,2
+full,202000,208750.0,1456.0,1+,Medium,None,Unfinished,one_story,1
+full,385000,266450.0,2323.0,1+,Large,None,Unfinished,one_story,2
+full,157000,142290.0,1412.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,293500,205540.0,1557.0,0,Medium,None,Unfinished,one_story,2
+not_full,264900,171390.0,976.0,1+,Small,None,Formal rec room,one_story,1
+not_full,223500,189840.0,1260.0,0,Small-Medium,Partial,Unfinished,one_story,1
+not_full,378000,297980.0,2399.0,1+,Large,None,Unfinished,one_story,2
+not_full,300000,261430.0,1302.0,0,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,300000,261430.0,1302.0,0,Small-Medium,None,Formal rec room,over_one_story,1
+full,270000,222160.0,1784.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,356500,377520.0,2016.0,0,Medium-Large,None,Unfinished,over_one_story,1
+full,391500,318040.0,2712.0,1+,Large,Partial,Unfinished,one_story,3+
+full,382000,297400.0,1873.0,0,Medium-Large,None,Unfinished,one_story,2
+full,470000,390040.0,3157.0,1+,Large,None,Unfinished,one_story,3+
+not_full,295000,230990.0,1536.0,1+,Medium,None,Formal rec room,one_story,1
+not_full,295000,230990.0,1536.0,1+,Medium,None,Formal rec room,one_story,1
+not_full,399900,266510.0,2280.0,1+,Large,None,Unfinished,one_story,2
+not_full,399900,312960.0,2280.0,1+,Large,None,Unfinished,one_story,2
+full,296000,224520.0,1990.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,296000,197400.0,1990.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,344000,265850.0,2250.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,370000,69110.0,1503.0,1+,Medium,None,Unfinished,one_story,2
+full,326995,157420.0,1188.0,0,Small,None,Unfinished,one_story,1
+full,326995,218600.0,1188.0,0,Small,None,Unfinished,one_story,1
+full,326995,218600.0,1188.0,0,Small,None,Unfinished,one_story,1
+full,326995,182070.0,1188.0,0,Small,None,Unfinished,one_story,1
+full,370000,266640.0,2245.0,0,Medium-Large,None,Unfinished,one_story,2
+not_full,435000,261640.0,2396.0,1+,Large,None,Formal rec room,one_story,2
+not_full,190000,121790.0,1320.0,1+,Small-Medium,None,Formal rec room,one_story,1
+full,319900,259530.0,2420.0,1+,Large,None,Unfinished,one_story,2
+full,390000,295000.0,2332.0,1+,Large,None,Unfinished,one_story,2
+not_full,350000,220670.0,1724.0,1+,Medium,None,Formal rec room,one_story,2
+full,249000,235340.0,1851.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,305000,314770.0,2260.0,1+,Medium-Large,Full,Unfinished,one_story,2
+full,305000,255780.0,2260.0,1+,Medium-Large,Full,Unfinished,one_story,2
+full,305000,238200.0,2260.0,1+,Medium-Large,Full,Unfinished,one_story,2
+not_full,415000,276020.0,1911.0,1+,Medium-Large,None,Unfinished,one_story,1
+full,419000,374360.0,2674.0,1+,Large,None,Unfinished,one_story,2
+not_full,290000,203740.0,1253.0,0,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,290000,227720.0,1253.0,0,Small-Medium,None,Formal rec room,over_one_story,1
+full,281500,217970.0,1165.0,1+,Small,None,Formal rec room,one_story,1
+full,235000,130870.0,1052.0,0,Small,Full,Unfinished,one_story,1
+full,235000,147840.0,1052.0,0,Small,Full,Unfinished,one_story,1
+not_full,174900,171030.0,1422.0,1+,Medium,None,Unfinished,one_story,1
+full,280000,261500.0,2748.0,1+,Large,None,Unfinished,one_story,2
+full,280000,253710.0,2748.0,1+,Large,None,Unfinished,one_story,2
+full,94000,191730.0,1539.0,1+,Medium,Partial,Unfinished,one_story,1
+full,177000,143700.0,1338.0,0,Small-Medium,None,Unfinished,one_story,1
+full,239500,172420.0,1210.0,0,Small-Medium,None,Unfinished,one_story,1
+full,225000,152000.0,988.0,0,Small,None,Unfinished,one_story,1
+full,225000,142560.0,988.0,0,Small,None,Unfinished,one_story,1
+not_full,255000,235700.0,1150.0,1+,Small,None,Formal rec room,over_one_story,1
+full,277500,176220.0,1767.0,0,Medium,None,Unfinished,one_story,2
+full,277500,176220.0,1767.0,0,Medium,None,Unfinished,one_story,2
+full,390000,270220.0,2224.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,368000,298350.0,2295.0,0,Large,None,Unfinished,one_story,2
+full,158000,112960.0,1240.0,1+,Small-Medium,None,Unfinished,one_story,1
+not_full,185000,135590.0,1300.0,1+,Small-Medium,None,Formal rec room,one_story,1
+full,240000,183700.0,1141.0,0,Small,None,Unfinished,one_story,1
+full,430000,258200.0,2371.0,1+,Large,None,Unfinished,one_story,2
+not_full,260000,205320.0,1075.0,0,Small,Partial,Formal rec room,over_one_story,1
+not_full,260000,161250.0,1075.0,0,Small,Partial,Formal rec room,over_one_story,1
+not_full,420000,239590.0,1900.0,0,Medium-Large,None,Unfinished,one_story,2
+full,326000,323250.0,2212.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,327000,253290.0,1413.0,1+,Small-Medium,None,Formal rec room,one_story,2
+not_full,327000,198000.0,1413.0,1+,Small-Medium,None,Formal rec room,one_story,2
+not_full,289000,73160.0,938.0,0,Small,None,Formal rec room,over_one_story,1
+not_full,289000,91910.0,938.0,0,Small,None,Formal rec room,over_one_story,1
+not_full,278000,173380.0,1131.0,1+,Small,None,Formal rec room,over_one_story,1
+full,282500,224420.0,1582.0,0,Medium,None,Unfinished,one_story,2
+not_full,390000,295620.0,2016.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,260000,170950.0,1140.0,0,Small,None,Unfinished,one_story,1
+not_full,196000,136070.0,1300.0,1+,Small-Medium,Partial,Formal rec room,one_story,1
+not_full,196000,111490.0,1300.0,1+,Small-Medium,Partial,Formal rec room,one_story,1
+not_full,196000,111490.0,1300.0,1+,Small-Medium,Partial,Formal rec room,one_story,1
+full,310000,218810.0,1372.0,1+,Small-Medium,None,Unfinished,one_story,2
+full,362500,220680.0,2378.0,1+,Large,None,Unfinished,one_story,2
+full,362500,293300.0,2378.0,1+,Large,None,Unfinished,one_story,2
+not_full,385000,256930.0,2044.0,0,Medium-Large,None,Unfinished,one_story,2
+not_full,385000,271780.0,2044.0,0,Medium-Large,None,Unfinished,one_story,2
+not_full,425000,248640.0,2368.0,1+,Large,None,Formal rec room,one_story,1
+not_full,425000,257400.0,2368.0,1+,Large,None,Formal rec room,one_story,1
+full,278000,211270.0,1588.0,1+,Medium,None,Unfinished,one_story,2
+full,278000,178620.0,1588.0,1+,Medium,None,Unfinished,one_story,2
+full,265000,188500.0,1320.0,0,Small-Medium,None,Unfinished,one_story,2
+full,154000,113130.0,1250.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,223000,238700.0,1499.0,1+,Medium,None,Formal rec room,over_one_story,2
+full,259900,276250.0,2678.0,1+,Large,None,Unfinished,one_story,2
+full,259900,276250.0,2678.0,1+,Large,None,Unfinished,one_story,2
+full,259900,240530.0,2678.0,1+,Large,None,Unfinished,one_story,2
+not_full,265000,214450.0,1319.0,0,Small-Medium,None,Formal rec room,over_one_story,2
+not_full,265000,214450.0,1319.0,0,Small-Medium,None,Formal rec room,over_one_story,2
+not_full,455000,353540.0,2376.0,1+,Large,None,Unfinished,one_story,2
+not_full,375250,270190.0,2216.0,0,Medium-Large,None,Unfinished,one_story,2
+not_full,261550,171580.0,1954.0,1+,Medium-Large,Partial,Unfinished,one_story,2
+full,350000,301640.0,2394.0,1+,Large,None,Unfinished,one_story,2
+not_full,335000,285440.0,2176.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,350000,277780.0,2545.0,1+,Large,None,Unfinished,one_story,2
+full,295000,193300.0,1818.0,1+,Medium-Large,None,Unfinished,one_story,1
+full,400000,262890.0,2296.0,0,Large,None,Unfinished,one_story,2
+not_full,370000,248330.0,1655.0,0,Medium,None,Formal rec room,one_story,2
+full,325000,270520.0,1705.0,1+,Medium,None,Unfinished,one_story,2
+not_full,552500,316760.0,2528.0,1+,Large,None,Unfinished,one_story,2
+not_full,400000,303110.0,2466.0,0,Large,None,Unfinished,one_story,2
+full,335000,140730.0,1646.0,1+,Medium,None,Unfinished,one_story,2
+full,255000,236710.0,1790.0,1+,Medium-Large,Full,Unfinished,one_story,2
+not_full,375000,253400.0,1417.0,1+,Medium,None,Formal rec room,over_one_story,3+
+full,264900,194740.0,1498.0,0,Medium,None,Unfinished,one_story,1
+full,244500,169870.0,1098.0,0,Small,None,Unfinished,one_story,1
+not_full,279000,186610.0,1100.0,1+,Small,None,Formal rec room,over_one_story,1
+full,665101,411420.0,2865.0,1+,Large,None,Unfinished,one_story,2
+not_full,385000,307760.0,1964.0,1+,Medium-Large,None,Formal rec room,over_one_story,2
+full,414000,292120.0,2700.0,1+,Large,None,Unfinished,one_story,2
+full,414000,244080.0,2700.0,1+,Large,None,Unfinished,one_story,2
+full,315000,290140.0,2458.0,0,Large,None,Unfinished,one_story,2
+full,265000,182120.0,1386.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,174000,149620.0,1065.0,0,Small,None,Unfinished,one_story,2
+full,382500,356200.0,2148.0,1+,Medium-Large,None,Unfinished,over_one_story,2
+not_full,356000,213300.0,1196.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,250000,113960.0,1655.0,0,Medium,None,Formal rec room,over_one_story,1
+not_full,250000,113960.0,1655.0,0,Medium,None,Formal rec room,over_one_story,1
+not_full,250000,113960.0,1655.0,0,Medium,None,Formal rec room,over_one_story,1
+full,150000,144630.0,1023.0,0,Small,None,Unfinished,one_story,1
+full,384790,40400.0,2148.0,0,Medium-Large,None,Unfinished,over_one_story,2
+not_full,295000,203560.0,1811.0,1+,Medium-Large,None,Formal rec room,one_story,2
+not_full,281235,183480.0,1084.0,0,Small,None,Formal rec room,over_one_story,1
+not_full,290000,271480.0,2242.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,344000,276690.0,2323.0,1+,Large,None,Unfinished,one_story,2
+not_full,170000,162020.0,1422.0,1+,Medium,None,Unfinished,one_story,2
+full,335000,272400.0,2323.0,1+,Large,None,Unfinished,one_story,2
+full,185000,138690.0,1350.0,1+,Small-Medium,None,Unfinished,one_story,1
+not_full,297000,175630.0,950.0,1+,Small,None,Formal rec room,one_story,1
+full,290000,170090.0,1278.0,0,Small-Medium,None,Unfinished,one_story,2
+not_full,275000,194810.0,1100.0,0,Small,Partial,Formal rec room,over_one_story,2
+full,260000,237110.0,1452.0,1+,Medium,None,Unfinished,one_story,2
+full,325000,275540.0,2286.0,1+,Large,None,Unfinished,one_story,2
+not_full,323000,296810.0,1764.0,1+,Medium,None,Unfinished,one_story,2
+full,216100,170400.0,1525.0,1+,Medium,None,Unfinished,one_story,2
+full,307500,291330.0,1670.0,1+,Medium,None,Unfinished,one_story,2
+full,325000,268270.0,1723.0,1+,Medium,None,Unfinished,one_story,1
+not_full,432000,364880.0,2660.0,1+,Large,None,Unfinished,one_story,2
+full,161100,176590.0,1767.0,0,Medium,None,Unfinished,one_story,2
+full,144900,137730.0,1338.0,0,Small-Medium,None,Unfinished,one_story,1
+full,144900,112020.0,1338.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,231000,176410.0,1654.0,1+,Medium,None,Unfinished,one_story,2
+not_full,231000,176410.0,1654.0,1+,Medium,None,Unfinished,one_story,2
+not_full,231000,176410.0,1654.0,1+,Medium,None,Unfinished,one_story,2
+full,392500,366720.0,3056.0,1+,Large,None,Unfinished,one_story,2
+not_full,250000,194390.0,1151.0,0,Small,None,Formal rec room,over_one_story,1
+full,355000,320960.0,2712.0,1+,Large,Partial,Unfinished,one_story,3+
+full,300000,146760.0,1065.0,0,Small,None,Formal rec room,one_story,1
+full,232000,147600.0,1884.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,248000,123600.0,962.0,1+,Small,Partial,Unfinished,one_story,1
+full,248000,178470.0,962.0,1+,Small,Partial,Unfinished,one_story,1
+full,248000,117460.0,962.0,1+,Small,Partial,Unfinished,one_story,1
+full,248000,148650.0,962.0,1+,Small,Partial,Unfinished,one_story,1
+full,248000,117460.0,962.0,1+,Small,Partial,Unfinished,one_story,1
+not_full,300000,241450.0,1655.0,1+,Medium,None,Formal rec room,one_story,2
+not_full,265000,189590.0,1075.0,0,Small,None,Formal rec room,over_one_story,2
+not_full,265000,165770.0,1075.0,0,Small,None,Formal rec room,over_one_story,2
+not_full,315500,189170.0,1566.0,1+,Medium,None,Unfinished,one_story,2
+not_full,315500,168970.0,1566.0,1+,Medium,None,Unfinished,one_story,2
+not_full,329000,231170.0,1266.0,1+,Small-Medium,Partial,Formal rec room,over_one_story,1
+full,396000,266080.0,1854.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,396000,285700.0,1854.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,128000,104480.0,1027.0,1+,Small,None,Unfinished,one_story,1
+full,240000,203660.0,1452.0,1+,Medium,None,Unfinished,one_story,2
+not_full,343000,160110.0,1186.0,0,Small,None,Formal rec room,one_story,1
+full,375000,257950.0,2272.0,1+,Medium-Large,Partial,Unfinished,one_story,2
+not_full,349800,236930.0,1279.0,0,Small-Medium,None,Formal rec room,over_one_story,1
+full,185000,140020.0,1380.0,0,Small-Medium,None,Unfinished,one_story,1
+full,185000,140020.0,1380.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,169000,138930.0,1300.0,0,Small-Medium,None,Formal rec room,one_story,1
+full,355000,257540.0,2683.0,1+,Large,Partial,Unfinished,one_story,1
+full,271500,202030.0,1165.0,0,Small,None,Formal rec room,one_story,1
+not_full,275000,162410.0,1131.0,0,Small,None,Formal rec room,one_story,1
+not_full,275000,171230.0,1131.0,0,Small,None,Formal rec room,one_story,1
+not_full,275000,162410.0,1131.0,0,Small,None,Formal rec room,one_story,1
+not_full,174000,164270.0,1422.0,1+,Medium,None,Unfinished,one_story,1
+not_full,410000,316000.0,2493.0,1+,Large,None,Unfinished,one_story,2
+full,100000,53720.0,1148.0,0,Small,Full,Formal rec room,one_story,1
+full,215000,131040.0,1766.0,0,Medium,None,Unfinished,one_story,2
+full,215000,131040.0,1766.0,0,Medium,None,Unfinished,one_story,2
+full,215000,127440.0,1766.0,0,Medium,None,Unfinished,one_story,2
+not_full,320000,169600.0,1196.0,1+,Small-Medium,None,Formal rec room,over_one_story,2
+not_full,285000,230150.0,1298.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+full,213000,174270.0,1767.0,0,Medium,None,Unfinished,one_story,2
+not_full,287000,240980.0,1549.0,1+,Medium,None,Formal rec room,over_one_story,1
+full,333000,264190.0,2191.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,315000,96010.0,1973.0,0,Medium-Large,None,Unfinished,one_story,2
+full,245000,33930.0,1308.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,142000,128250.0,1250.0,0,Small-Medium,None,Unfinished,one_story,1
+full,142000,113660.0,1250.0,0,Small-Medium,None,Unfinished,one_story,1
+full,142000,110980.0,1250.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,319000,204240.0,1120.0,1+,Small,Partial,Formal rec room,over_one_story,1
+not_full,335000,269600.0,1655.0,1+,Medium,None,Formal rec room,over_one_story,2
+full,625000,363910.0,3354.0,1+,Large,None,Unfinished,one_story,2
+not_full,300000,238420.0,1146.0,0,Small,None,Formal rec room,over_one_story,1
+not_full,385000,317920.0,2347.0,1+,Large,None,Unfinished,one_story,2
+full,340000,200110.0,1184.0,1+,Small,None,Formal rec room,one_story,2
+full,340000,225000.0,1184.0,1+,Small,None,Formal rec room,one_story,2
+not_full,245000,260980.0,2299.0,1+,Large,None,Unfinished,one_story,2
+full,270000,236260.0,1583.0,1+,Medium,None,Unfinished,one_story,1
+not_full,257000,221530.0,1324.0,0,Small-Medium,None,Formal rec room,over_one_story,2
+full,218000,148310.0,988.0,0,Small,None,Unfinished,one_story,1
+full,171000,116690.0,1187.0,0,Small,None,Unfinished,one_story,2
+not_full,318000,163210.0,1144.0,0,Small,Partial,Formal rec room,one_story,1
+not_full,318000,184640.0,1144.0,0,Small,Partial,Formal rec room,one_story,1
+full,141000,125360.0,1250.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,258700,164200.0,988.0,1+,Small,None,Formal rec room,one_story,1
+full,383500,254020.0,2383.0,0,Large,None,Unfinished,one_story,2
+not_full,493000,193210.0,1856.0,1+,Medium-Large,Full,Formal rec room,one_story,1
+not_full,309900,207380.0,1132.0,0,Small,None,Unfinished,over_one_story,1
+not_full,322000,161460.0,998.0,1+,Small,None,Formal rec room,one_story,2
+not_full,322000,189080.0,998.0,1+,Small,None,Formal rec room,one_story,2
+full,378000,299070.0,2264.0,1+,Medium-Large,Full,Unfinished,one_story,2
+full,285000,189080.0,1325.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,182000,160830.0,1363.0,0,Small-Medium,None,Unfinished,one_story,1
+full,182000,160830.0,1363.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,179500,149940.0,1201.0,1+,Small-Medium,None,Unfinished,one_story,2
+full,215000,237760.0,1117.0,1+,Small,None,Unfinished,one_story,2
+full,307500,315350.0,1946.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,212000,220860.0,1090.0,1+,Small,None,Unfinished,one_story,1
+full,192500,147060.0,1201.0,1+,Small-Medium,None,Unfinished,one_story,2
+full,184000,153800.0,1176.0,0,Small,None,Unfinished,one_story,2
+not_full,305000,299100.0,2254.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,398000,234360.0,1910.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,398000,293590.0,1910.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,425000,312920.0,2305.0,1+,Large,None,Unfinished,one_story,2
+full,266000,213320.0,1686.0,1+,Medium,None,Unfinished,one_story,2
+full,345000,308910.0,1901.0,0,Medium-Large,None,Formal rec room,one_story,2
+full,285000,190780.0,1141.0,0,Small,None,Unfinished,one_story,1
+full,280000,193330.0,1624.0,0,Medium,None,Unfinished,one_story,1
+full,280000,177560.0,1624.0,0,Medium,None,Unfinished,one_story,1
+full,160000,144850.0,1490.0,0,Medium,None,Unfinished,one_story,1
+not_full,260000,233260.0,1496.0,0,Medium,Partial,Formal rec room,one_story,2
+full,420000,322090.0,2351.0,1+,Large,None,Unfinished,one_story,2
+full,170000,115360.0,1176.0,0,Small,None,Unfinished,one_story,1
+not_full,215000,200760.0,2453.0,1+,Large,None,Unfinished,one_story,1
+full,297000,214400.0,1431.0,1+,Medium,None,Formal rec room,one_story,2
+full,315000,202300.0,1615.0,0,Medium,Full,Unfinished,one_story,2
+full,155000,115050.0,1560.0,0,Medium,None,Unfinished,one_story,1
+full,155000,150620.0,1560.0,0,Medium,None,Unfinished,one_story,1
+full,225000,177710.0,1889.0,0,Medium-Large,None,Unfinished,one_story,3+
+full,266800,131700.0,1889.0,0,Medium-Large,None,Unfinished,one_story,2
+not_full,175000,167270.0,1356.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,325000,82360.0,1126.0,1+,Small,None,Formal rec room,over_one_story,2
+not_full,325000,67330.0,1126.0,1+,Small,None,Formal rec room,over_one_story,2
+not_full,352000,223220.0,1150.0,1+,Small,None,Formal rec room,over_one_story,1
+not_full,352000,223220.0,1150.0,1+,Small,None,Formal rec room,over_one_story,1
+full,475000,400230.0,2506.0,1+,Large,None,Unfinished,one_story,2
+full,260000,254230.0,2250.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,368900,223320.0,1774.0,1+,Medium,None,Unfinished,one_story,2
+full,395000,353950.0,2493.0,1+,Large,None,Unfinished,one_story,2
+not_full,408000,225210.0,1844.0,0,Medium-Large,None,Unfinished,one_story,1
+not_full,408000,209840.0,1844.0,0,Medium-Large,None,Unfinished,one_story,1
+full,330000,196320.0,1958.0,1+,Medium-Large,Full,Unfinished,one_story,2
+not_full,245000,177600.0,1120.0,1+,Small,None,Formal rec room,over_one_story,1
+full,441300,386950.0,2400.0,0,Large,None,Unfinished,over_one_story,2
+full,595000,337810.0,2506.0,1+,Large,None,Unfinished,one_story,2
+full,344950,229310.0,1602.0,0,Medium,None,Unfinished,one_story,2
+full,344950,229310.0,1602.0,0,Medium,None,Unfinished,one_story,2
+full,273000,174050.0,1128.0,1+,Small,None,Unfinished,one_story,1
+full,314000,283440.0,1897.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,216500,143700.0,1074.0,0,Small,None,Unfinished,one_story,1
+full,246000,142500.0,1140.0,0,Small,Full,Unfinished,one_story,1
+full,257500,204430.0,1454.0,1+,Medium,None,Unfinished,one_story,2
+full,124500,125250.0,1250.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,242000,193860.0,1075.0,1+,Small,None,Formal rec room,over_one_story,1
+not_full,495000,366160.0,2911.0,1+,Large,None,Unfinished,one_story,2
+full,180000,130960.0,962.0,0,Small,Partial,Unfinished,one_story,1
+full,172500,147740.0,1454.0,0,Medium,None,Unfinished,one_story,1
+full,172500,130400.0,1454.0,0,Medium,None,Unfinished,one_story,1
+full,227500,147740.0,1454.0,1+,Medium,None,Unfinished,one_story,1
+full,227500,130400.0,1454.0,1+,Medium,None,Unfinished,one_story,1
+full,263000,202910.0,1326.0,1+,Small-Medium,None,Unfinished,one_story,2
+full,263000,199300.0,1326.0,1+,Small-Medium,None,Unfinished,one_story,2
+full,263000,197430.0,1326.0,1+,Small-Medium,None,Unfinished,one_story,2
+not_full,200000,181770.0,1161.0,0,Small,None,Unfinished,one_story,1
+not_full,248000,215810.0,1360.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,248000,215810.0,1360.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+full,318000,213380.0,1672.0,0,Medium,None,Unfinished,one_story,2
+full,475000,310060.0,2800.0,1+,Large,Partial,Unfinished,one_story,2
+full,377000,335380.0,2466.0,1+,Large,None,Unfinished,one_story,2
+not_full,500000,401730.0,2293.0,1+,Large,None,Unfinished,one_story,2
+full,225500,163540.0,1283.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,225500,139340.0,1283.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,185500,123270.0,1023.0,0,Small,None,Unfinished,one_story,1
+not_full,240000,189020.0,1073.0,1+,Small,None,Formal rec room,one_story,1
+not_full,407000,266970.0,1904.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,395000,270130.0,2299.0,1+,Large,None,Unfinished,one_story,2
+not_full,234900,187550.0,1784.0,1+,Medium-Large,None,Unfinished,one_story,1
+not_full,234900,151380.0,1784.0,1+,Medium-Large,None,Unfinished,one_story,1
+full,285000,168660.0,1763.0,1+,Medium,Partial,Unfinished,over_one_story,2
+full,275446,202650.0,1694.0,0,Medium,None,Unfinished,one_story,2
+full,230000,199600.0,1470.0,1+,Medium,None,Unfinished,one_story,1
+full,374000,329720.0,2148.0,1+,Medium-Large,None,Unfinished,over_one_story,2
+not_full,432500,343160.0,3086.0,1+,Large,None,Unfinished,one_story,3+
+full,400000,272080.0,2422.0,1+,Large,None,Unfinished,one_story,2
+not_full,255000,244200.0,1097.0,1+,Small,Partial,Formal rec room,over_one_story,1
+full,182000,132240.0,1065.0,0,Small,None,Unfinished,one_story,2
+full,348000,324530.0,2296.0,1+,Large,None,Formal rec room,one_story,2
+full,327500,179820.0,1395.0,1+,Small-Medium,None,Unfinished,one_story,1
+not_full,291500,185250.0,1186.0,1+,Small,None,Formal rec room,over_one_story,2
+not_full,318000,214820.0,1128.0,1+,Small,None,Formal rec room,over_one_story,1
+not_full,318000,214820.0,1128.0,1+,Small,None,Formal rec room,over_one_story,1
+full,306000,217770.0,1630.0,1+,Medium,None,Formal rec room,one_story,2
+not_full,132000,141490.0,1320.0,0,Small-Medium,None,Formal rec room,one_story,1
+not_full,370000,304970.0,2390.0,0,Large,None,Unfinished,one_story,2
+full,418000,270590.0,2114.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,418000,252410.0,2114.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,214200,236910.0,1138.0,0,Small,None,Formal rec room,over_one_story,2
+full,217000,155060.0,1525.0,1+,Medium,None,Unfinished,one_story,2
+full,112500,174070.0,1005.0,0,Small,None,Formal rec room,one_story,1
+full,320000,204900.0,1240.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,320000,204900.0,1240.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,320000,214650.0,1240.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,524000,366430.0,3267.0,1+,Large,None,Unfinished,one_story,2
+full,242000,183020.0,1140.0,1+,Small,None,Unfinished,one_story,1
+full,310000,215970.0,1470.0,0,Medium,None,Formal rec room,one_story,2
+full,185000,155920.0,1686.0,0,Medium,None,Unfinished,over_one_story,1
+full,276000,217690.0,1870.0,0,Medium-Large,None,Unfinished,one_story,2
+full,218000,199470.0,1304.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,367000,305250.0,2290.0,1+,Large,None,Unfinished,one_story,2
+not_full,388500,270080.0,2135.0,1+,Medium-Large,None,Formal rec room,one_story,3+
+not_full,400000,283950.0,2493.0,1+,Large,None,Unfinished,one_story,2
+not_full,334000,187520.0,1635.0,0,Medium,None,Formal rec room,over_one_story,2
+full,320000,199620.0,1712.0,1+,Medium,None,Unfinished,one_story,2
+full,155000,99510.0,1034.0,1+,Small,None,Unfinished,one_story,1
+full,155000,117890.0,1034.0,1+,Small,None,Unfinished,one_story,1
+full,255100,170740.0,1239.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,211000,171380.0,1140.0,1+,Small,Partial,Unfinished,one_story,1
+not_full,260750,173730.0,988.0,0,Small,None,Formal rec room,one_story,1
+not_full,298500,208920.0,1983.0,0,Medium-Large,None,Unfinished,one_story,2
+not_full,298500,235840.0,1983.0,0,Medium-Large,None,Unfinished,one_story,2
+not_full,298500,242010.0,1983.0,0,Medium-Large,None,Unfinished,one_story,2
+not_full,257400,155360.0,973.0,1+,Small,None,Formal rec room,one_story,1
+full,250000,231870.0,1452.0,1+,Medium,None,Unfinished,one_story,2
+full,250000,255390.0,1452.0,1+,Medium,None,Unfinished,one_story,2
+not_full,299900,214040.0,1537.0,0,Medium,None,Unfinished,one_story,1
+not_full,367000,220760.0,1942.0,1+,Medium-Large,None,Unfinished,one_story,1
+not_full,367000,254790.0,1942.0,1+,Medium-Large,None,Unfinished,one_story,1
+full,286000,223770.0,1141.0,0,Small,Partial,Unfinished,one_story,1
+not_full,457000,326470.0,2859.0,1+,Large,None,Formal rec room,one_story,2
+full,323500,199320.0,1172.0,1+,Small,None,Unfinished,one_story,1
+full,390150,305310.0,2091.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,325000,268160.0,1705.0,1+,Medium,None,Unfinished,one_story,2
+not_full,385000,229700.0,1414.0,1+,Small-Medium,None,Formal rec room,over_one_story,2
+not_full,385000,240670.0,1414.0,1+,Small-Medium,None,Formal rec room,over_one_story,2
+not_full,291500,173750.0,1210.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,205379,190770.0,1710.0,1+,Medium,None,Unfinished,one_story,1
+not_full,352000,270050.0,1992.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,245000,202530.0,1452.0,1+,Medium,None,Unfinished,one_story,2
+full,265000,196180.0,1332.0,1+,Small-Medium,Full,Unfinished,one_story,1
+full,325000,222240.0,1761.0,0,Medium,None,Unfinished,one_story,2
+full,423250,331970.0,2351.0,1+,Large,None,Unfinished,one_story,1
+full,343500,203360.0,1911.0,1+,Medium-Large,None,Unfinished,one_story,1
+full,425000,266930.0,1970.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,340000,145720.0,1556.0,0,Medium,None,Formal rec room,over_one_story,2
+full,245000,142140.0,1884.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,285000,227680.0,1790.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,365000,273430.0,2078.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,365000,273430.0,2078.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,275000,207320.0,1336.0,1+,Small-Medium,Partial,Formal rec room,one_story,1
+full,190000,145550.0,1023.0,1+,Small,None,Unfinished,one_story,1
+full,243000,168340.0,1140.0,1+,Small,None,Unfinished,one_story,1
+full,243000,168340.0,1140.0,1+,Small,None,Unfinished,one_story,1
+not_full,299000,248720.0,1306.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,262000,160710.0,984.0,1+,Small,None,Formal rec room,one_story,1
+not_full,262000,137560.0,984.0,1+,Small,None,Formal rec room,one_story,1
+not_full,185000,143200.0,1422.0,0,Medium,None,Unfinished,one_story,1
+not_full,239000,175280.0,1654.0,1+,Medium,None,Unfinished,one_story,2
+not_full,405000,242540.0,2109.0,1+,Medium-Large,None,Formal rec room,one_story,2
+not_full,405000,346850.0,2109.0,1+,Medium-Large,None,Formal rec room,one_story,2
+full,275000,176720.0,1386.0,1+,Small-Medium,Partial,Unfinished,one_story,1
+full,275000,158210.0,1386.0,1+,Small-Medium,Partial,Unfinished,one_story,1
+full,343500,377890.0,2016.0,0,Medium-Large,None,Unfinished,over_one_story,1
+not_full,233000,176060.0,1654.0,1+,Medium,None,Unfinished,one_story,2
+not_full,175000,139810.0,1300.0,0,Small-Medium,None,Formal rec room,one_story,1
+full,320000,209440.0,1870.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,320000,187190.0,1870.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,257500,180540.0,1300.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,257500,150880.0,1300.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,280000,193230.0,1889.0,1+,Medium-Large,None,Unfinished,one_story,1
+not_full,420000,276240.0,2302.0,1+,Large,None,Unfinished,one_story,2
+not_full,221000,146750.0,1422.0,1+,Medium,None,Unfinished,one_story,1
+not_full,315000,245430.0,1549.0,1+,Medium,None,Formal rec room,over_one_story,1
+full,277500,214310.0,1380.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,245000,177380.0,1140.0,0,Small,None,Unfinished,one_story,1
+full,181500,197980.0,1320.0,0,Small-Medium,None,Unfinished,one_story,1
+full,315000,202210.0,1233.0,1+,Small-Medium,None,Formal rec room,over_one_story,2
+full,260000,134620.0,1889.0,0,Medium-Large,None,Unfinished,one_story,3+
+full,260000,161440.0,1889.0,0,Medium-Large,None,Unfinished,one_story,3+
+full,345000,236440.0,1840.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,333500,257790.0,1596.0,1+,Medium,None,Unfinished,one_story,2
+not_full,352500,254170.0,2373.0,0,Large,None,Unfinished,one_story,2
+not_full,352500,284690.0,2373.0,0,Large,None,Unfinished,one_story,2
+not_full,275000,196360.0,1075.0,0,Small,None,Formal rec room,over_one_story,1
+full,345000,339500.0,2544.0,1+,Large,None,Unfinished,one_story,2
+full,329900,281000.0,1963.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,190000,147750.0,971.0,1+,Small,None,Unfinished,one_story,1
+full,580000,267360.0,3164.0,1+,Large,Partial,Unfinished,one_story,2
+full,145000,117890.0,1034.0,0,Small,None,Unfinished,one_story,1
+not_full,285000,203830.0,1100.0,1+,Small,None,Formal rec room,over_one_story,2
+not_full,163000,131320.0,1202.0,1+,Small-Medium,None,Unfinished,one_story,1
+not_full,163000,140390.0,1202.0,1+,Small-Medium,None,Unfinished,one_story,1
+not_full,156000,140930.0,1300.0,0,Small-Medium,None,Formal rec room,one_story,1
+full,362000,30890.0,1479.0,1+,Medium,None,Unfinished,one_story,1
+full,362000,30890.0,1479.0,1+,Medium,None,Unfinished,one_story,1
+full,355000,285510.0,1913.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,227000,177860.0,1127.0,1+,Small,None,Formal rec room,one_story,1
+not_full,300000,205690.0,1308.0,1+,Small-Medium,Partial,Formal rec room,over_one_story,1
+full,311000,221210.0,1790.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,410000,201000.0,2002.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,199000,195920.0,1616.0,1+,Medium,None,Unfinished,one_story,1
+full,199000,195920.0,1616.0,1+,Medium,None,Unfinished,one_story,1
+full,345000,195920.0,1616.0,1+,Medium,None,Unfinished,one_story,1
+full,345000,195920.0,1616.0,1+,Medium,None,Unfinished,one_story,1
+not_full,220000,146400.0,1070.0,1+,Small,None,Unfinished,one_story,2
+not_full,313450,213790.0,2083.0,0,Medium-Large,None,Formal rec room,one_story,2
+full,297000,219270.0,1470.0,1+,Medium,Partial,Unfinished,one_story,2
+full,250000,226140.0,1141.0,1+,Small,Partial,Unfinished,one_story,1
+full,408000,283980.0,2427.0,1+,Large,None,Unfinished,one_story,2
+full,348000,215180.0,1847.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,348000,220690.0,1847.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,335000,223520.0,1549.0,1+,Medium,None,Formal rec room,over_one_story,2
+not_full,335000,223520.0,1549.0,1+,Medium,None,Formal rec room,over_one_story,2
+full,335000,264420.0,1654.0,1+,Medium,None,Formal rec room,one_story,2
+full,205000,173460.0,1767.0,0,Medium,None,Unfinished,one_story,2
+not_full,269000,184580.0,1075.0,0,Small,None,Formal rec room,over_one_story,2
+full,380000,323310.0,2792.0,1+,Large,None,Unfinished,one_story,2
+full,420000,361680.0,2400.0,0,Large,None,Unfinished,over_one_story,2
+not_full,280000,188730.0,1103.0,1+,Small,None,Formal rec room,over_one_story,1
+not_full,218000,169300.0,1654.0,1+,Medium,None,Unfinished,one_story,1
+not_full,270000,76990.0,1224.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+full,555000,388200.0,2506.0,1+,Large,None,Unfinished,one_story,2
+full,287000,195050.0,1386.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,287000,168690.0,1386.0,1+,Small-Medium,None,Unfinished,one_story,1
+not_full,261000,204640.0,1186.0,1+,Small,None,Formal rec room,one_story,2
+not_full,261000,204640.0,1186.0,1+,Small,None,Formal rec room,one_story,2
+full,230000,144140.0,1092.0,0,Small,None,Unfinished,one_story,1
+not_full,330000,266310.0,1325.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+full,280000,215080.0,1784.0,0,Medium-Large,None,Unfinished,one_story,2
+full,245000,180060.0,1512.0,0,Medium,None,Unfinished,one_story,1
+full,232000,202250.0,1454.0,1+,Medium,None,Unfinished,one_story,2
+full,302500,242640.0,1872.0,1+,Medium-Large,None,Formal rec room,one_story,2
+full,302500,260100.0,1872.0,1+,Medium-Large,None,Formal rec room,one_story,2
+full,305000,235350.0,1730.0,1+,Medium,None,Unfinished,one_story,2
+full,305000,235350.0,1730.0,1+,Medium,None,Unfinished,one_story,2
+full,353000,235350.0,1730.0,1+,Medium,None,Unfinished,one_story,2
+full,353000,235350.0,1730.0,1+,Medium,None,Unfinished,one_story,2
+not_full,325000,203640.0,1151.0,1+,Small,None,Formal rec room,over_one_story,2
+not_full,325000,224460.0,1151.0,1+,Small,None,Formal rec room,over_one_story,2
+not_full,340000,175650.0,1186.0,1+,Small,Full,Formal rec room,one_story,2
+not_full,325000,233100.0,1364.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+full,187000,128910.0,1023.0,0,Small,None,Unfinished,one_story,1
+not_full,220500,171880.0,1349.0,1+,Small-Medium,None,Unfinished,one_story,1
+not_full,269000,209340.0,1098.0,0,Small,Partial,Formal rec room,over_one_story,1
+full,340000,223500.0,2058.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,398000,316620.0,2143.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,398000,223940.0,2143.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,229989,193370.0,1130.0,0,Small,None,Formal rec room,one_story,1
+full,229989,193370.0,1130.0,0,Small,None,Formal rec room,one_story,1
+full,229989,167480.0,1130.0,0,Small,None,Formal rec room,one_story,1
+full,229989,193370.0,1130.0,0,Small,None,Formal rec room,one_story,1
+full,154000,128250.0,1250.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,359000,266080.0,2273.0,0,Large,None,Formal rec room,one_story,2
+full,285000,227230.0,1971.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,357000,267170.0,1752.0,1+,Medium,None,Unfinished,one_story,1
+not_full,228000,134410.0,1266.0,1+,Small-Medium,None,Unfinished,one_story,2
+full,326000,274710.0,1997.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,170000,138930.0,1300.0,0,Small-Medium,None,Formal rec room,one_story,1
+not_full,289500,223190.0,2034.0,0,Medium-Large,None,Unfinished,one_story,2
+not_full,289500,223190.0,2034.0,0,Medium-Large,None,Unfinished,one_story,2
+not_full,317500,223190.0,2034.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,317500,223190.0,2034.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,350000,244150.0,1308.0,1+,Small-Medium,None,Formal rec room,over_one_story,2
+not_full,357500,291110.0,2181.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,350000,290060.0,2792.0,1+,Large,None,Unfinished,one_story,2
+full,343000,268090.0,2212.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,343000,323250.0,2212.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,395000,333120.0,2558.0,1+,Large,None,Unfinished,one_story,2
+not_full,337000,213150.0,1763.0,1+,Medium,None,Formal rec room,one_story,2
+full,340000,205080.0,1249.0,0,Small-Medium,None,Formal rec room,one_story,1
+full,350000,403970.0,2148.0,0,Medium-Large,None,Unfinished,over_one_story,2
+not_full,320000,241090.0,1921.0,1+,Medium-Large,Partial,Formal rec room,one_story,1
+not_full,371500,259240.0,2289.0,1+,Large,None,Unfinished,one_story,2
+full,178500,118050.0,1686.0,0,Medium,None,Unfinished,over_one_story,1
+full,178500,118050.0,1686.0,0,Medium,None,Unfinished,over_one_story,1
+full,178500,155920.0,1686.0,0,Medium,None,Unfinished,over_one_story,1
+not_full,264000,203580.0,1347.0,0,Small-Medium,None,Formal rec room,over_one_story,1
+full,345000,293250.0,2417.0,1+,Large,None,Unfinished,one_story,2
+full,338000,239420.0,1197.0,1+,Small-Medium,None,Formal rec room,one_story,2
+not_full,403000,325160.0,2772.0,1+,Large,None,Unfinished,one_story,2
+not_full,425000,326620.0,2046.0,1+,Medium-Large,None,Formal rec room,over_one_story,2
+full,189000,159850.0,1065.0,1+,Small,None,Unfinished,one_story,2
+full,189000,116030.0,1065.0,1+,Small,None,Unfinished,one_story,2
+full,273500,151770.0,1136.0,0,Small,None,Unfinished,one_story,1
+full,343000,173790.0,1672.0,0,Medium,None,Unfinished,one_story,2
+full,343000,198700.0,1672.0,0,Medium,None,Unfinished,one_story,2
+full,325000,256040.0,1708.0,1+,Medium,None,Unfinished,one_story,2
+not_full,305000,207100.0,1734.0,1+,Medium,None,Unfinished,one_story,2
+not_full,305000,232480.0,1734.0,1+,Medium,None,Unfinished,one_story,2
+not_full,175000,110180.0,1300.0,1+,Small-Medium,None,Formal rec room,one_story,1
+full,420000,328050.0,2200.0,1+,Medium-Large,None,Formal rec room,one_story,2
+full,340000,245280.0,1306.0,1+,Small-Medium,None,Formal rec room,one_story,3+
+full,140000,125690.0,1489.0,1+,Medium,Partial,Unfinished,one_story,2
+full,274500,222920.0,1582.0,1+,Medium,None,Unfinished,one_story,2
+not_full,285000,215460.0,1268.0,1+,Small-Medium,Full,Formal rec room,over_one_story,1
+not_full,165500,121340.0,1300.0,0,Small-Medium,None,Formal rec room,one_story,1
+not_full,390000,328670.0,2282.0,1+,Large,None,Unfinished,one_story,3+
+not_full,390000,319340.0,2282.0,1+,Large,None,Unfinished,one_story,3+
+full,459435,356730.0,2938.0,1+,Large,None,Formal rec room,one_story,2
+not_full,195000,180040.0,1084.0,0,Small,None,Formal rec room,over_one_story,1
+full,220000,160390.0,1324.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,320000,173440.0,1186.0,0,Small,None,Formal rec room,one_story,2
+not_full,320000,163080.0,1186.0,0,Small,None,Formal rec room,one_story,2
+full,260000,177320.0,1889.0,0,Medium-Large,None,Unfinished,one_story,2
+full,325000,271090.0,2307.0,0,Large,None,Unfinished,one_story,2
+not_full,420000,263890.0,2254.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,386778,231220.0,2140.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,276500,170840.0,1198.0,0,Small-Medium,None,Unfinished,one_story,1
+full,158000,99100.0,1034.0,0,Small,None,Unfinished,one_story,1
+full,158000,117010.0,1034.0,0,Small,None,Unfinished,one_story,1
+not_full,282000,226760.0,1268.0,1+,Small-Medium,None,Formal rec room,over_one_story,2
+full,217000,180760.0,1587.0,1+,Medium,None,Unfinished,one_story,1
+full,250000,203360.0,1454.0,1+,Medium,None,Unfinished,one_story,2
+full,367500,316870.0,2238.0,0,Medium-Large,None,Unfinished,one_story,2
+full,369000,321640.0,2712.0,1+,Large,Partial,Unfinished,one_story,3+
+full,479000,158400.0,2400.0,1+,Large,None,Unfinished,one_story,2
+full,230000,189200.0,1386.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,395000,196520.0,2114.0,0,Medium-Large,None,Unfinished,one_story,2
+full,395000,237160.0,2114.0,0,Medium-Large,None,Unfinished,one_story,2
+not_full,202000,238340.0,1499.0,1+,Medium,None,Formal rec room,over_one_story,2
+full,237000,155380.0,1140.0,0,Small,Full,Unfinished,one_story,1
+full,237000,155380.0,1140.0,0,Small,Full,Unfinished,one_story,1
+full,221000,176220.0,1767.0,0,Medium,None,Unfinished,one_story,2
+full,220000,224080.0,1141.0,0,Small,None,Unfinished,one_story,1
+full,383000,108920.0,1921.0,0,Medium-Large,None,Unfinished,one_story,2
+full,383000,112780.0,1921.0,0,Medium-Large,None,Unfinished,one_story,2
+full,383000,112780.0,1921.0,0,Medium-Large,None,Unfinished,one_story,2
+full,274500,228580.0,1518.0,0,Medium,None,Formal rec room,one_story,1
+not_full,364000,270440.0,1639.0,1+,Medium,None,Formal rec room,over_one_story,3+
+full,280000,232880.0,1776.0,0,Medium,None,Unfinished,one_story,2
+not_full,280000,166120.0,1200.0,1+,Small-Medium,None,Formal rec room,one_story,2
+full,339900,265090.0,1705.0,1+,Medium,None,Unfinished,one_story,2
+full,285000,264650.0,1536.0,1+,Medium,None,Formal rec room,one_story,2
+not_full,328000,192190.0,1760.0,1+,Medium,None,Unfinished,one_story,1
+full,385000,292140.0,2416.0,1+,Large,None,Unfinished,one_story,2
+not_full,250000,183370.0,1103.0,0,Small,None,Formal rec room,over_one_story,1
+not_full,177500,147520.0,1202.0,1+,Small-Medium,None,Unfinished,one_story,1
+not_full,177500,120700.0,1202.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,294500,220140.0,1649.0,1+,Medium,None,Unfinished,one_story,2
+full,270000,156840.0,1592.0,0,Medium,None,Unfinished,one_story,2
+full,270000,147470.0,1592.0,0,Medium,None,Unfinished,one_story,2
+not_full,278000,220760.0,1138.0,1+,Small,None,Formal rec room,over_one_story,1
+full,520000,400960.0,1836.0,1+,Medium-Large,None,Formal rec room,one_story,2
+not_full,320000,226320.0,1268.0,1+,Small-Medium,None,Formal rec room,over_one_story,2
+full,300000,219640.0,1870.0,0,Medium-Large,None,Unfinished,one_story,2
+full,485000,272960.0,2337.0,1+,Large,None,Unfinished,one_story,2
+not_full,275000,189210.0,1097.0,1+,Small,None,Formal rec room,over_one_story,1
+not_full,355000,234950.0,2022.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,270000,260900.0,1414.0,1+,Small-Medium,None,Formal rec room,over_one_story,2
+not_full,286000,188570.0,1097.0,0,Small,None,Formal rec room,over_one_story,1
+full,299900,241850.0,1865.0,1+,Medium-Large,None,Unfinished,one_story,1
+full,285000,269390.0,2092.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,275000,271770.0,1414.0,1+,Small-Medium,None,Formal rec room,over_one_story,2
+not_full,380000,229380.0,1549.0,1+,Medium,None,Formal rec room,over_one_story,1
+full,154000,89290.0,1250.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,339180,250300.0,1708.0,1+,Medium,None,Formal rec room,one_story,1
+not_full,303000,240260.0,1852.0,0,Medium-Large,None,Formal rec room,over_one_story,2
+not_full,294500,242020.0,1740.0,0,Medium,Partial,Formal rec room,one_story,2
+not_full,251000,215840.0,1040.0,1+,Small,None,Formal rec room,over_one_story,2
+full,240750,249030.0,1488.0,1+,Medium,Partial,Unfinished,one_story,2
+full,195000,122650.0,1380.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,195000,112620.0,1380.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,195000,126130.0,1380.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,280000,257040.0,2448.0,1+,Large,None,Unfinished,one_story,2
+full,274500,127620.0,1180.0,1+,Small,None,Unfinished,one_story,1
+not_full,270000,189210.0,1503.0,0,Medium,None,Unfinished,one_story,1
+not_full,308000,199840.0,1100.0,1+,Small,None,Formal rec room,over_one_story,2
+not_full,308000,181910.0,1100.0,1+,Small,None,Formal rec room,over_one_story,2
+full,195000,164400.0,1196.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,300000,245770.0,1997.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,300000,278230.0,1997.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,277000,150760.0,1269.0,0,Small-Medium,None,Unfinished,one_story,1
+full,310000,268580.0,1536.0,1+,Medium,None,Formal rec room,one_story,2
+not_full,385000,238370.0,2197.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,285000,224500.0,1472.0,0,Medium,None,Formal rec room,over_one_story,1
+not_full,285000,223450.0,1472.0,0,Medium,None,Formal rec room,over_one_story,1
+full,270000,194810.0,1386.0,1+,Small-Medium,None,Unfinished,one_story,1
+not_full,365000,241730.0,2059.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,235000,155640.0,962.0,0,Small,Full,Unfinished,one_story,1
+full,235000,152690.0,962.0,0,Small,Full,Unfinished,one_story,1
+not_full,450000,334780.0,2776.0,1+,Large,None,Unfinished,one_story,2
+full,214900,147120.0,750.0,0,Small,None,Unfinished,one_story,1
+full,214900,147120.0,750.0,0,Small,None,Unfinished,one_story,1
+full,366000,221090.0,2328.0,1+,Large,None,Unfinished,one_story,3+
+full,366000,263060.0,2328.0,1+,Large,None,Unfinished,one_story,3+
+full,366000,256080.0,2328.0,1+,Large,None,Unfinished,one_story,3+
+full,366000,263060.0,2328.0,1+,Large,None,Unfinished,one_story,3+
+full,370000,149360.0,2097.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,367500,314540.0,2305.0,0,Large,None,Unfinished,one_story,2
+not_full,369000,304110.0,2448.0,1+,Large,None,Unfinished,one_story,2
+not_full,213000,172320.0,1200.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,347000,325590.0,2322.0,1+,Large,None,Unfinished,one_story,2
+full,359900,282360.0,2212.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,342500,213990.0,1764.0,1+,Medium,None,Unfinished,one_story,2
+not_full,565000,142120.0,3165.0,1+,Large,None,Formal rec room,one_story,3+
+not_full,262000,182650.0,1212.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,370000,305580.0,2138.0,1+,Medium-Large,None,Formal rec room,over_one_story,2
+full,369900,313420.0,2254.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,369900,279250.0,2254.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,279000,135240.0,1546.0,1+,Medium,None,Unfinished,one_story,2
+not_full,345000,255060.0,2138.0,1+,Medium-Large,None,Formal rec room,one_story,2
+not_full,275200,121660.0,1448.0,1+,Medium,None,Formal rec room,over_one_story,2
+full,195000,174490.0,1767.0,0,Medium,None,Unfinished,one_story,2
+not_full,400000,270650.0,1532.0,1+,Medium,None,Formal rec room,over_one_story,2
+full,432500,189800.0,1561.0,1+,Medium,None,Unfinished,one_story,2
+not_full,304000,215960.0,1239.0,1+,Small-Medium,None,Formal rec room,over_one_story,3+
+full,335000,289110.0,2448.0,1+,Large,None,Unfinished,one_story,2
+full,335000,247830.0,2448.0,1+,Large,None,Unfinished,one_story,2
+not_full,287000,243260.0,1266.0,0,Small-Medium,None,Formal rec room,over_one_story,1
+full,302700,239290.0,1692.0,1+,Medium,None,Unfinished,one_story,2
+full,295000,260390.0,2328.0,1+,Large,None,Unfinished,one_story,2
+not_full,419000,318660.0,2230.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,302000,148510.0,1248.0,1+,Small-Medium,None,Unfinished,one_story,2
+full,149000,138870.0,1350.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,149000,138870.0,1350.0,1+,Small-Medium,None,Unfinished,one_story,1
+not_full,175000,148570.0,1202.0,1+,Small-Medium,None,Unfinished,one_story,1
+not_full,175000,148570.0,1202.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,324900,281360.0,2574.0,1+,Large,None,Unfinished,one_story,2
+full,324900,325020.0,2574.0,1+,Large,None,Unfinished,one_story,2
+full,324900,281360.0,2574.0,1+,Large,None,Unfinished,one_story,2
+not_full,298000,184310.0,1180.0,1+,Small,None,Formal rec room,one_story,1
+not_full,298000,205920.0,1180.0,1+,Small,None,Formal rec room,one_story,1
+not_full,272500,156740.0,965.0,0,Small,Partial,Formal rec room,one_story,1
+full,293000,236390.0,1708.0,1+,Medium,None,Unfinished,one_story,2
+not_full,540000,362860.0,2528.0,1+,Large,None,Formal rec room,one_story,3+
+not_full,245000,193410.0,1100.0,0,Small,Full,Formal rec room,over_one_story,1
+not_full,334900,219590.0,1286.0,1+,Small-Medium,None,Formal rec room,over_one_story,2
+not_full,382500,291240.0,2225.0,0,Medium-Large,None,Unfinished,one_story,2
+full,162000,144640.0,1490.0,0,Medium,Partial,Unfinished,one_story,2
+full,275000,180170.0,984.0,0,Small,Partial,Formal rec room,one_story,1
+full,275000,154450.0,984.0,0,Small,Partial,Formal rec room,one_story,1
+full,319000,260920.0,2420.0,1+,Large,None,Unfinished,one_story,2
+full,319000,260920.0,2420.0,1+,Large,None,Unfinished,one_story,2
+full,250000,218640.0,2094.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,280000,194940.0,1100.0,0,Small,None,Formal rec room,over_one_story,2
+not_full,325400,217570.0,1748.0,1+,Medium,None,Unfinished,one_story,2
+not_full,240000,282610.0,1876.0,1+,Medium-Large,None,Formal rec room,one_story,2
+not_full,240000,282610.0,1876.0,1+,Medium-Large,None,Formal rec room,one_story,2
+not_full,390000,282610.0,1876.0,1+,Medium-Large,None,Formal rec room,one_story,2
+not_full,390000,282610.0,1876.0,1+,Medium-Large,None,Formal rec room,one_story,2
+full,355000,303830.0,2592.0,1+,Large,None,Unfinished,one_story,2
+not_full,346000,240870.0,1994.0,1+,Medium-Large,None,Formal rec room,over_one_story,2
+full,237000,219090.0,1090.0,0,Small,None,Unfinished,one_story,1
+full,335000,206830.0,1654.0,1+,Medium,None,Formal rec room,one_story,2
+full,335000,264410.0,1654.0,1+,Medium,None,Formal rec room,one_story,2
+full,506250,383410.0,4594.0,1+,Large,None,Unfinished,one_story,2
+full,250000,221240.0,1090.0,0,Small,None,Unfinished,one_story,1
+full,250000,221240.0,1090.0,0,Small,None,Unfinished,one_story,1
+full,235000,197520.0,1292.0,1+,Small-Medium,None,Unfinished,one_story,2
+not_full,610000,409120.0,3026.0,1+,Large,None,Unfinished,one_story,3+
+not_full,430000,252300.0,2029.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,360000,176100.0,2695.0,1+,Large,None,Unfinished,one_story,2
+full,340000,279630.0,2685.0,0,Large,None,Unfinished,one_story,2
+full,340000,233800.0,2685.0,0,Large,None,Unfinished,one_story,2
+full,270000,164340.0,1622.0,1+,Medium,None,Unfinished,one_story,1
+full,282000,196380.0,1534.0,1+,Medium,Partial,Unfinished,one_story,1
+full,356500,200550.0,1784.0,0,Medium-Large,None,Unfinished,one_story,2
+full,356500,224760.0,1784.0,0,Medium-Large,None,Unfinished,one_story,2
+full,356500,224760.0,1784.0,0,Medium-Large,None,Unfinished,one_story,2
+not_full,380000,305060.0,2351.0,1+,Large,None,Unfinished,one_story,2
+full,155000,139330.0,1378.0,1+,Small-Medium,None,Unfinished,one_story,1
+not_full,175100,141360.0,1096.0,1+,Small,None,Unfinished,one_story,1
+not_full,418000,284200.0,2493.0,1+,Large,None,Unfinished,one_story,2
+full,399900,269250.0,2239.0,0,Medium-Large,None,Unfinished,one_story,2
+full,320000,188290.0,984.0,0,Small,Partial,Formal rec room,one_story,1
+full,320000,188290.0,984.0,0,Small,Partial,Formal rec room,one_story,1
+full,225000,199470.0,1304.0,0,Small-Medium,None,Unfinished,one_story,1
+full,236100,163290.0,1239.0,0,Small-Medium,None,Unfinished,one_story,1
+full,225000,163540.0,1278.0,1+,Small-Medium,None,Unfinished,one_story,2
+full,303000,267500.0,1536.0,1+,Medium,None,Formal rec room,one_story,2
+not_full,160000,141490.0,1320.0,0,Small-Medium,None,Formal rec room,one_story,1
+not_full,415000,256570.0,2231.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,347500,194300.0,1655.0,1+,Medium,None,Formal rec room,one_story,2
+full,140000,128250.0,1250.0,0,Small-Medium,None,Unfinished,one_story,1
+full,349000,250010.0,2383.0,0,Large,None,Unfinished,one_story,1
+full,270000,205580.0,1118.0,0,Small,None,Formal rec room,one_story,1
+full,385000,321110.0,2351.0,0,Large,None,Unfinished,one_story,2
+full,385000,257900.0,2351.0,0,Large,None,Unfinished,one_story,2
+full,358000,271880.0,2174.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,412500,371530.0,2816.0,1+,Large,None,Unfinished,one_story,2
+not_full,435000,282810.0,2016.0,0,Medium-Large,None,Unfinished,one_story,2
+not_full,461500,291120.0,2629.0,1+,Large,None,Unfinished,one_story,2
+not_full,305000,220200.0,1971.0,0,Medium-Large,None,Unfinished,one_story,2
+not_full,301000,305190.0,2272.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,410000,283960.0,2318.0,1+,Large,None,Formal rec room,one_story,2
+not_full,301500,195320.0,984.0,0,Small,None,Formal rec room,one_story,2
+full,285000,150620.0,1186.0,0,Small,None,Formal rec room,one_story,2
+full,285000,210150.0,1186.0,0,Small,None,Formal rec room,one_story,2
+not_full,363500,270150.0,2027.0,1+,Medium-Large,None,Formal rec room,one_story,2
+not_full,363500,206150.0,2027.0,1+,Medium-Large,None,Formal rec room,one_story,2
+full,240000,181870.0,1654.0,0,Medium,None,Unfinished,one_story,2
+full,240000,167450.0,1654.0,0,Medium,None,Unfinished,one_story,2
+full,240000,169970.0,1654.0,0,Medium,None,Unfinished,one_story,2
+not_full,661000,407740.0,3208.0,1+,Large,None,Unfinished,one_story,2
+full,422000,360020.0,3013.0,1+,Large,None,Formal rec room,one_story,3+
+full,210000,148620.0,988.0,0,Small,None,Unfinished,one_story,1
+not_full,228000,190560.0,1395.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,479000,394290.0,3157.0,1+,Large,None,Unfinished,one_story,3+
+full,294900,205380.0,1739.0,0,Medium,None,Unfinished,one_story,2
+full,140000,179750.0,1288.0,0,Small-Medium,None,Formal rec room,one_story,1
+not_full,347900,259870.0,2172.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,282500,214870.0,1165.0,0,Small,None,Formal rec room,one_story,1
+not_full,255000,225220.0,1890.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,255000,225220.0,1890.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,390000,225220.0,1890.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,390000,225220.0,1890.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,205000,147850.0,1142.0,1+,Small,None,Unfinished,one_story,2
+full,205000,163230.0,1142.0,1+,Small,None,Unfinished,one_story,2
+full,112200,125250.0,1250.0,0,Small-Medium,None,Unfinished,one_story,1
+full,430000,301340.0,2541.0,1+,Large,None,Unfinished,one_story,2
+full,430000,334480.0,2541.0,1+,Large,None,Unfinished,one_story,2
+not_full,289900,124100.0,1418.0,1+,Medium,None,Formal rec room,over_one_story,2
+not_full,289900,124100.0,1418.0,1+,Medium,None,Formal rec room,over_one_story,2
+not_full,306000,124100.0,1418.0,1+,Medium,None,Formal rec room,over_one_story,2
+not_full,306000,124100.0,1418.0,1+,Medium,None,Formal rec room,over_one_story,2
+full,275000,186040.0,1386.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,275000,173880.0,1354.0,0,Small-Medium,None,Unfinished,one_story,1
+full,275000,179210.0,1354.0,0,Small-Medium,None,Unfinished,one_story,1
+full,275000,155790.0,1354.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,283000,248300.0,1146.0,0,Small,None,Formal rec room,over_one_story,1
+not_full,283000,234360.0,1146.0,0,Small,None,Formal rec room,over_one_story,1
+not_full,372000,343640.0,2969.0,1+,Large,None,Unfinished,one_story,2
+not_full,310000,311730.0,2226.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,310000,280210.0,2226.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,365000,281670.0,1921.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,250000,160740.0,1140.0,1+,Small,None,Unfinished,one_story,1
+not_full,278000,203800.0,1100.0,0,Small,None,Formal rec room,over_one_story,1
+not_full,278000,193420.0,1100.0,0,Small,None,Formal rec room,over_one_story,1
+not_full,330000,293420.0,1764.0,1+,Medium,None,Unfinished,one_story,2
+full,270100,180670.0,1186.0,0,Small,None,Formal rec room,one_story,1
+not_full,246000,195390.0,1100.0,0,Small,None,Formal rec room,over_one_story,1
+full,339900,222350.0,1672.0,1+,Medium,Partial,Unfinished,one_story,2
+full,262500,268490.0,1536.0,1+,Medium,None,Formal rec room,one_story,2
+full,262500,268490.0,1536.0,1+,Medium,None,Formal rec room,one_story,2
+full,367500,228320.0,1432.0,1+,Medium,None,Formal rec room,one_story,2
+full,310000,303740.0,1654.0,1+,Medium,None,Formal rec room,one_story,2
+not_full,255000,198050.0,1260.0,0,Small-Medium,None,Formal rec room,over_one_story,1
+full,289900,164060.0,1188.0,0,Small,None,Unfinished,one_story,1
+full,226900,128170.0,1767.0,0,Medium,None,Unfinished,one_story,2
+full,226900,176870.0,1767.0,0,Medium,None,Unfinished,one_story,2
+full,202410,121380.0,1250.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,202410,121380.0,1250.0,1+,Small-Medium,None,Unfinished,one_story,1
+not_full,166000,135590.0,1300.0,0,Small-Medium,None,Formal rec room,one_story,1
+full,279900,185600.0,1160.0,1+,Small,None,Formal rec room,one_story,2
+full,279900,204740.0,1160.0,1+,Small,None,Formal rec room,one_story,2
+not_full,270000,218650.0,1308.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+full,326500,242680.0,1969.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,360000,331000.0,3256.0,1+,Large,None,Unfinished,one_story,3+
+full,360000,331000.0,3256.0,1+,Large,None,Unfinished,one_story,3+
+full,360000,334060.0,3256.0,1+,Large,None,Unfinished,one_story,3+
+full,517500,331000.0,3256.0,1+,Large,None,Unfinished,one_story,3+
+full,517500,331000.0,3256.0,1+,Large,None,Unfinished,one_story,3+
+full,517500,334060.0,3256.0,1+,Large,None,Unfinished,one_story,3+
+full,375000,271690.0,2798.0,1+,Large,None,Unfinished,one_story,2
+full,160000,147780.0,1676.0,1+,Medium,Partial,Unfinished,over_one_story,2
+full,160000,147780.0,1676.0,1+,Medium,Partial,Unfinished,over_one_story,2
+full,243500,200400.0,1452.0,1+,Medium,None,Unfinished,one_story,2
+not_full,365000,255420.0,2252.0,0,Medium-Large,None,Unfinished,one_story,2
+not_full,304000,209850.0,1292.0,1+,Small-Medium,None,Formal rec room,one_story,2
+not_full,201101,202950.0,1125.0,0,Small,Partial,Formal rec room,over_one_story,1
+full,465000,373210.0,3218.0,1+,Large,None,Unfinished,one_story,3+
+not_full,336000,255730.0,1774.0,1+,Medium,None,Unfinished,one_story,2
+full,290000,215740.0,1784.0,0,Medium-Large,None,Unfinished,one_story,2
+full,186000,153910.0,1136.0,0,Small,None,Unfinished,one_story,1
+full,168000,103840.0,1027.0,1+,Small,None,Unfinished,one_story,1
+full,290000,211890.0,1186.0,1+,Small,None,Formal rec room,one_story,2
+full,275000,211990.0,1709.0,0,Medium,None,Unfinished,one_story,2
+full,275000,203930.0,1709.0,0,Medium,None,Unfinished,one_story,2
+full,395000,230460.0,2216.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,361500,293400.0,1765.0,1+,Medium,None,Formal rec room,one_story,2
+not_full,361500,260230.0,1765.0,1+,Medium,None,Formal rec room,one_story,2
+full,150000,159650.0,1282.0,1+,Small-Medium,None,Formal rec room,one_story,1
+full,150000,179430.0,1282.0,1+,Small-Medium,None,Formal rec room,one_story,1
+full,317000,291330.0,1670.0,1+,Medium,None,Unfinished,one_story,2
+not_full,280000,244240.0,1923.0,1+,Medium-Large,None,Formal rec room,over_one_story,2
+full,280000,314200.0,2523.0,1+,Large,None,Unfinished,one_story,2
+full,370000,58660.0,1997.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,268500,210970.0,1680.0,1+,Medium,Partial,Unfinished,one_story,1
+not_full,309900,253830.0,1965.0,1+,Medium-Large,None,Formal rec room,one_story,2
+not_full,235500,200220.0,1075.0,0,Small,None,Formal rec room,over_one_story,2
+full,315000,250860.0,2144.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,315000,210310.0,2144.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,228000,185430.0,1155.0,0,Small,None,Unfinished,one_story,1
+full,222000,255140.0,1452.0,1+,Medium,None,Unfinished,one_story,2
+not_full,290000,233910.0,1118.0,1+,Small,None,Formal rec room,over_one_story,1
+not_full,290000,233910.0,1118.0,1+,Small,None,Formal rec room,over_one_story,1
+full,152500,148470.0,1078.0,0,Small,None,Unfinished,one_story,1
+full,408000,253660.0,2325.0,0,Large,None,Formal rec room,one_story,2
+full,180100,126220.0,1490.0,0,Medium,None,Formal rec room,one_story,2
+full,365000,278530.0,1849.0,0,Medium-Large,Partial,Unfinished,one_story,1
+not_full,498274,198880.0,2829.0,1+,Large,None,Formal rec room,over_one_story,3+
+full,426500,277470.0,2493.0,1+,Large,Full,Unfinished,one_story,2
+full,230000,185780.0,976.0,1+,Small,None,Formal rec room,one_story,1
+full,163000,99100.0,1034.0,1+,Small,None,Unfinished,one_story,1
+full,163000,117010.0,1034.0,1+,Small,None,Unfinished,one_story,1
+full,267000,189780.0,1293.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,194000,150350.0,1400.0,0,Small-Medium,None,Unfinished,one_story,1
+full,194000,112040.0,1400.0,0,Small-Medium,None,Unfinished,one_story,1
+full,194000,123040.0,1400.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,168750,121580.0,1202.0,1+,Small-Medium,None,Unfinished,one_story,1
+not_full,168750,149240.0,1202.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,296700,224710.0,1712.0,1+,Medium,None,Unfinished,one_story,2
+full,296700,224710.0,1712.0,1+,Medium,None,Unfinished,one_story,2
+not_full,350000,178480.0,1981.0,0,Medium-Large,None,Formal rec room,over_one_story,2
+not_full,281500,172300.0,1075.0,1+,Small,None,Formal rec room,over_one_story,1
+full,226000,209580.0,1090.0,0,Small,None,Unfinished,one_story,1
+not_full,220000,176100.0,1654.0,1+,Medium,None,Unfinished,one_story,2
+full,255000,232300.0,1851.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,305555,224040.0,1141.0,0,Small,None,Unfinished,one_story,1
+full,295000,225390.0,1798.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,295000,219330.0,1798.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,400000,260900.0,1975.0,0,Medium-Large,None,Unfinished,one_story,2
+full,380000,337550.0,2948.0,1+,Large,None,Unfinished,one_story,2
+not_full,370000,282550.0,2293.0,1+,Large,None,Unfinished,one_story,2
+full,153000,100550.0,1078.0,0,Small,None,Unfinished,one_story,1
+not_full,270000,54110.0,1514.0,1+,Medium,None,Unfinished,one_story,2
+full,284500,213060.0,1646.0,1+,Medium,None,Unfinished,one_story,2
+full,245000,204120.0,1452.0,1+,Medium,None,Unfinished,one_story,2
+full,274900,201810.0,1149.0,0,Small,None,Formal rec room,one_story,1
+full,266000,233360.0,1583.0,0,Medium,None,Unfinished,one_story,1
+full,235000,162790.0,1155.0,0,Small,None,Unfinished,one_story,1
+full,235000,168270.0,1155.0,0,Small,None,Unfinished,one_story,1
+full,360000,312680.0,1946.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,360000,251990.0,1946.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,280000,182200.0,1548.0,0,Medium,None,Unfinished,one_story,1
+not_full,405000,327810.0,2537.0,1+,Large,None,Unfinished,one_story,2
+not_full,303000,186710.0,1186.0,1+,Small,Full,Formal rec room,one_story,2
+not_full,170000,159410.0,1422.0,1+,Medium,None,Unfinished,one_story,1
+full,337000,348090.0,2806.0,1+,Large,None,Unfinished,one_story,2
+full,273500,217430.0,1784.0,0,Medium-Large,None,Unfinished,one_story,2
+full,269000,206060.0,1668.0,1+,Medium,Full,Unfinished,one_story,1
+not_full,342000,272920.0,1365.0,1+,Small-Medium,None,Formal rec room,over_one_story,2
+not_full,342000,272920.0,1365.0,1+,Small-Medium,None,Formal rec room,over_one_story,2
+full,335000,279290.0,2674.0,1+,Large,None,Unfinished,one_story,2
+full,213000,176590.0,1767.0,0,Medium,None,Unfinished,one_story,2
+full,625750,399730.0,3569.0,1+,Large,None,Unfinished,one_story,3+
+not_full,170000,108810.0,1300.0,0,Small-Medium,None,Formal rec room,one_story,1
+full,298000,305580.0,1654.0,1+,Medium,None,Formal rec room,one_story,2
+full,153000,139240.0,1350.0,0,Small-Medium,None,Unfinished,one_story,1
+full,153000,101120.0,1350.0,0,Small-Medium,None,Unfinished,one_story,1
+full,255000,169870.0,1302.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,294740,165490.0,1546.0,1+,Medium,None,Unfinished,one_story,2
+full,294740,165490.0,1546.0,1+,Medium,None,Unfinished,one_story,2
+full,294740,157020.0,1546.0,1+,Medium,None,Unfinished,one_story,2
+not_full,255000,182630.0,1282.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+full,354990,377470.0,2016.0,0,Medium-Large,None,Unfinished,over_one_story,1
+full,354990,92100.0,2016.0,0,Medium-Large,None,Unfinished,over_one_story,1
+full,347500,377470.0,2016.0,1+,Medium-Large,None,Unfinished,over_one_story,1
+full,347500,92100.0,2016.0,1+,Medium-Large,None,Unfinished,over_one_story,1
+not_full,300000,210150.0,1234.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,330000,283490.0,1639.0,1+,Medium,None,Formal rec room,over_one_story,2
+full,292500,272640.0,2004.0,1+,Medium-Large,None,Formal rec room,one_story,2
+full,170000,150300.0,1686.0,0,Medium,None,Unfinished,over_one_story,1
+not_full,323000,226750.0,1444.0,1+,Medium,None,Formal rec room,over_one_story,2
+full,173140,154430.0,1480.0,0,Medium,None,Unfinished,one_story,1
+not_full,302000,205440.0,1286.0,1+,Small-Medium,None,Formal rec room,over_one_story,2
+full,440000,279770.0,2351.0,1+,Large,None,Unfinished,one_story,2
+full,227900,154810.0,1140.0,1+,Small,None,Unfinished,one_story,1
+full,227900,139080.0,1140.0,1+,Small,None,Unfinished,one_story,1
+not_full,276000,285590.0,1948.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,300000,283710.0,2208.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,228000,133410.0,1767.0,1+,Medium,None,Unfinished,one_story,2
+full,306500,260230.0,1647.0,1+,Medium,Partial,Unfinished,one_story,2
+not_full,285000,199840.0,1142.0,1+,Small,None,Formal rec room,over_one_story,1
+not_full,170600,164640.0,1422.0,1+,Medium,None,Unfinished,one_story,1
+full,255000,159850.0,1155.0,0,Small,Partial,Unfinished,one_story,1
+not_full,325000,289260.0,2060.0,0,Medium-Large,None,Unfinished,one_story,2
+not_full,325000,267180.0,2060.0,0,Medium-Large,None,Unfinished,one_story,2
+not_full,318000,300330.0,2911.0,1+,Large,None,Unfinished,one_story,2
+full,145000,139790.0,1378.0,0,Small-Medium,Full,Unfinished,one_story,1
+full,145000,139790.0,1378.0,0,Small-Medium,Full,Unfinished,one_story,1
+not_full,330000,223950.0,1748.0,1+,Medium,None,Unfinished,one_story,2
+full,189900,140570.0,1023.0,1+,Small,None,Unfinished,one_story,2
+full,189900,154520.0,1023.0,1+,Small,None,Unfinished,one_story,2
+full,259900,162640.0,1822.0,1+,Medium-Large,Full,Unfinished,one_story,1
+full,259900,198520.0,1822.0,1+,Medium-Large,Full,Unfinished,one_story,1
+full,271000,177060.0,1889.0,1+,Medium-Large,None,Unfinished,one_story,3+
+full,245000,141020.0,1140.0,0,Small,Partial,Unfinished,one_story,1
+not_full,240000,240070.0,1904.0,1+,Medium-Large,Partial,Formal rec room,over_one_story,1
+not_full,240000,240070.0,1904.0,1+,Medium-Large,Partial,Formal rec room,over_one_story,1
+full,270000,180030.0,1155.0,0,Small,None,Unfinished,one_story,1
+full,243600,240160.0,1548.0,1+,Medium,Full,Unfinished,over_one_story,2
+full,328000,324650.0,2148.0,0,Medium-Large,None,Unfinished,over_one_story,2
+full,320000,295860.0,1985.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,287000,227430.0,2029.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,350000,213090.0,1621.0,1+,Medium,None,Unfinished,one_story,1
+full,148000,128360.0,1250.0,0,Small-Medium,None,Unfinished,one_story,1
+full,148000,110570.0,1250.0,0,Small-Medium,None,Unfinished,one_story,1
+full,385000,332060.0,2054.0,0,Medium-Large,None,Formal rec room,one_story,2
+full,320000,159890.0,1269.0,0,Small-Medium,Full,Unfinished,one_story,1
+full,320000,150210.0,1269.0,0,Small-Medium,Full,Unfinished,one_story,1
+full,320000,150210.0,1269.0,0,Small-Medium,Full,Unfinished,one_story,1
+full,165700,138910.0,1452.0,0,Medium,None,Unfinished,one_story,1
+not_full,430000,298270.0,2351.0,0,Large,None,Unfinished,one_story,2
+full,255000,169700.0,1140.0,0,Small,None,Unfinished,one_story,1
+full,255000,169700.0,1140.0,0,Small,None,Unfinished,one_story,1
+full,267500,206720.0,1293.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,267500,206720.0,1293.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,280500,206720.0,1293.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,280500,206720.0,1293.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,245000,176580.0,1889.0,0,Medium-Large,None,Unfinished,one_story,3+
+full,264000,197320.0,1292.0,1+,Small-Medium,None,Unfinished,one_story,2
+not_full,320000,227630.0,1391.0,1+,Small-Medium,None,Formal rec room,over_one_story,2
+not_full,350000,152640.0,1186.0,0,Small,None,Unfinished,one_story,2
+not_full,350000,178420.0,1186.0,0,Small,None,Unfinished,one_story,2
+full,348000,299340.0,1873.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,348000,311170.0,1873.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,348000,286480.0,1873.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,212000,172860.0,1666.0,1+,Medium,None,Unfinished,one_story,2
+full,310000,190330.0,1572.0,0,Medium,None,Unfinished,one_story,1
+full,237500,191920.0,1292.0,1+,Small-Medium,None,Unfinished,one_story,2
+full,333000,174050.0,1237.0,1+,Small-Medium,None,Unfinished,one_story,2
+full,211500,155340.0,1342.0,1+,Small-Medium,None,Unfinished,one_story,2
+full,294000,211660.0,1784.0,0,Medium-Large,None,Unfinished,one_story,2
+not_full,289900,225690.0,1319.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,289900,209720.0,1319.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,310100,225690.0,1319.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,310100,209720.0,1319.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,385000,240600.0,1433.0,1+,Medium,None,Formal rec room,over_one_story,2
+not_full,263000,239110.0,1869.0,1+,Medium-Large,None,Unfinished,one_story,1
+full,272500,176640.0,1532.0,0,Medium,None,Unfinished,one_story,1
+full,325000,263770.0,1558.0,1+,Medium,None,Unfinished,one_story,2
+full,262000,168710.0,1565.0,0,Medium,Partial,Unfinished,one_story,2
+full,262000,181590.0,1565.0,0,Medium,Partial,Unfinished,one_story,2
+not_full,360000,249930.0,1365.0,1+,Small-Medium,None,Formal rec room,over_one_story,2
+full,181000,124740.0,1350.0,1+,Small-Medium,None,Unfinished,one_story,1
+not_full,280000,225140.0,1196.0,1+,Small-Medium,None,Formal rec room,over_one_story,2
+full,375750,247080.0,2307.0,1+,Large,None,Unfinished,one_story,2
+not_full,271000,187230.0,1412.0,0,Small-Medium,None,Formal rec room,over_one_story,2
+full,163000,125780.0,1489.0,0,Medium,None,Unfinished,one_story,1
+full,352000,254950.0,2301.0,1+,Large,Partial,Unfinished,one_story,2
+full,174000,115360.0,1176.0,1+,Small,None,Unfinished,one_story,2
+full,316000,303990.0,1654.0,1+,Medium,None,Formal rec room,one_story,2
+not_full,280000,161180.0,1186.0,1+,Small,Partial,Formal rec room,one_story,2
+not_full,380000,120400.0,1663.0,0,Medium,None,Formal rec room,over_one_story,2
+full,325000,369930.0,3354.0,1+,Large,None,Unfinished,one_story,2
+not_full,338500,183140.0,984.0,0,Small,Partial,Formal rec room,one_story,1
+not_full,338500,183140.0,984.0,0,Small,Partial,Formal rec room,one_story,1
+not_full,338500,165810.0,984.0,0,Small,Partial,Formal rec room,one_story,1
+full,260000,166770.0,1334.0,0,Small-Medium,None,Unfinished,one_story,1
+full,260000,166770.0,1334.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,380000,289340.0,1566.0,0,Medium,None,Formal rec room,over_one_story,3+
+not_full,380000,289340.0,1566.0,0,Medium,None,Formal rec room,over_one_story,3+
+not_full,312900,223660.0,1268.0,1+,Small-Medium,None,Formal rec room,over_one_story,2
+full,195000,140910.0,1023.0,1+,Small,None,Unfinished,one_story,1
+not_full,355000,227040.0,1760.0,1+,Medium,None,Unfinished,one_story,2
+full,419000,300930.0,2351.0,1+,Large,None,Unfinished,one_story,2
+full,334900,186120.0,1196.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,334900,156610.0,1196.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,334900,156610.0,1196.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,327500,289690.0,1719.0,1+,Medium,None,Unfinished,one_story,2
+not_full,301000,162600.0,1186.0,1+,Small,None,Formal rec room,one_story,3+
+full,179000,160230.0,976.0,0,Small,None,Unfinished,one_story,1
+full,327500,276130.0,1997.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,262500,289800.0,1719.0,1+,Medium,None,Unfinished,one_story,2
+not_full,311000,237480.0,1448.0,1+,Medium,None,Formal rec room,over_one_story,2
+full,317250,176230.0,1466.0,0,Medium,None,Unfinished,one_story,1
+not_full,290000,166040.0,1186.0,0,Small,Full,Formal rec room,one_story,2
+full,336000,258640.0,1705.0,1+,Medium,None,Unfinished,one_story,2
+full,310000,310780.0,1850.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,285500,183300.0,1141.0,1+,Small,None,Unfinished,one_story,1
+full,285500,196560.0,1141.0,1+,Small,None,Unfinished,one_story,1
+not_full,440000,296670.0,1912.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,440000,296670.0,1912.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,282000,220570.0,1747.0,1+,Medium,None,Formal rec room,one_story,2
+not_full,305000,263420.0,1868.0,0,Medium-Large,None,Formal rec room,over_one_story,2
+not_full,305000,263420.0,1868.0,0,Medium-Large,None,Formal rec room,over_one_story,2
+full,274000,206300.0,1050.0,0,Small,None,Formal rec room,one_story,1
+full,233000,152280.0,988.0,0,Small,None,Unfinished,one_story,1
+full,375000,260690.0,2335.0,1+,Large,None,Unfinished,one_story,2
+full,425000,324090.0,2493.0,1+,Large,None,Unfinished,one_story,2
+full,250000,226600.0,1188.0,1+,Small,None,Formal rec room,one_story,2
+full,197000,135490.0,1065.0,0,Small,None,Unfinished,one_story,2
+full,338500,192770.0,1712.0,1+,Medium,None,Unfinished,one_story,2
+not_full,212000,181000.0,1075.0,1+,Small,Partial,Formal rec room,over_one_story,1
+not_full,212000,181000.0,1075.0,1+,Small,Partial,Formal rec room,over_one_story,1
+full,185900,131510.0,1686.0,1+,Medium,None,Unfinished,over_one_story,1
+full,300000,225670.0,1636.0,1+,Medium,None,Unfinished,one_story,2
+full,395000,280510.0,1908.0,1+,Medium-Large,None,Unfinished,one_story,1
+not_full,311100,220460.0,1268.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+full,200000,122450.0,1023.0,0,Small,None,Unfinished,one_story,2
+full,200000,122450.0,1023.0,0,Small,None,Unfinished,one_story,2
+not_full,265000,211340.0,1100.0,1+,Small,None,Formal rec room,one_story,1
+not_full,265000,176600.0,1100.0,1+,Small,None,Formal rec room,one_story,1
+not_full,352000,271360.0,2048.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,182000,140910.0,1023.0,0,Small,None,Unfinished,one_story,1
+full,307500,229460.0,1815.0,0,Medium-Large,None,Unfinished,one_story,2
+full,307500,198920.0,1815.0,0,Medium-Large,None,Unfinished,one_story,2
+not_full,501000,361320.0,2845.0,1+,Large,None,Unfinished,one_story,2
+full,297000,203580.0,1836.0,0,Medium-Large,None,Unfinished,one_story,2
+full,400000,412430.0,3056.0,1+,Large,None,Unfinished,one_story,2
+not_full,273000,175840.0,1125.0,1+,Small,None,Formal rec room,over_one_story,1
+full,360000,262730.0,1878.0,0,Medium-Large,None,Unfinished,one_story,2
+full,225000,197250.0,1386.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,255000,165760.0,1210.0,0,Small-Medium,None,Unfinished,one_story,1
+full,255000,165760.0,1210.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,360000,228670.0,1852.0,0,Medium-Large,None,Formal rec room,one_story,1
+not_full,262900,191150.0,1186.0,0,Small,None,Formal rec room,one_story,2
+full,310000,278360.0,1997.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,205000,176170.0,1880.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,205000,176170.0,1880.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,331000,268710.0,1532.0,1+,Medium,None,Formal rec room,over_one_story,2
+not_full,275000,192560.0,1084.0,1+,Small,None,Formal rec room,over_one_story,2
+full,247000,189940.0,1232.0,0,Small-Medium,None,Unfinished,one_story,1
+full,247000,189940.0,1232.0,0,Small-Medium,None,Unfinished,one_story,1
+full,390000,272920.0,2302.0,1+,Large,None,Unfinished,one_story,2
+full,365000,331010.0,2148.0,1+,Medium-Large,None,Unfinished,over_one_story,2
+full,290000,208090.0,1632.0,1+,Medium,None,Unfinished,one_story,2
+full,305000,165710.0,1167.0,1+,Small,Full,Formal rec room,one_story,2
+full,210000,130000.0,1275.0,1+,Small-Medium,None,Unfinished,one_story,2
+full,255000,160950.0,1210.0,0,Small-Medium,None,Unfinished,one_story,1
+full,265000,242500.0,1478.0,0,Medium,None,Unfinished,one_story,1
+full,265000,242500.0,1478.0,0,Medium,None,Unfinished,one_story,1
+not_full,199500,174660.0,1349.0,0,Small-Medium,None,Unfinished,one_story,1
+full,295000,206070.0,1754.0,0,Medium,None,Unfinished,one_story,1
+full,535000,348030.0,3302.0,1+,Large,None,Unfinished,one_story,2
+not_full,381500,242670.0,2159.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,509000,400620.0,1836.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,195000,162620.0,1363.0,0,Small-Medium,None,Unfinished,one_story,2
+full,195000,140460.0,1363.0,0,Small-Medium,None,Unfinished,one_story,2
+full,195000,140460.0,1363.0,0,Small-Medium,None,Unfinished,one_story,2
+full,150000,150300.0,1686.0,1+,Medium,None,Unfinished,over_one_story,1
+full,302000,266380.0,1942.0,1+,Medium-Large,None,Formal rec room,one_story,1
+full,206500,225680.0,1603.0,1+,Medium,Partial,Formal rec room,one_story,2
+full,206500,225680.0,1603.0,1+,Medium,Partial,Formal rec room,one_story,2
+full,262100,193540.0,1454.0,1+,Medium,None,Unfinished,one_story,2
+full,225000,231370.0,1236.0,0,Small-Medium,None,Unfinished,one_story,1
+full,382000,400820.0,3056.0,1+,Large,None,Unfinished,one_story,2
+full,180000,124930.0,1023.0,0,Small,None,Unfinished,one_story,1
+not_full,205000,169470.0,1422.0,1+,Medium,None,Unfinished,one_story,1
+not_full,405000,310600.0,2220.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,277900,173700.0,1386.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,327500,271410.0,2315.0,1+,Large,None,Unfinished,one_story,2
+not_full,389000,285440.0,2448.0,1+,Large,None,Unfinished,one_story,2
+not_full,230000,73330.0,1219.0,0,Small-Medium,Full,Unfinished,one_story,1
+not_full,285000,231380.0,1764.0,1+,Medium,None,Unfinished,one_story,2
+full,367000,293210.0,1513.0,1+,Medium,None,Formal rec room,one_story,1
+full,150000,161300.0,1155.0,0,Small,None,Unfinished,one_story,1
+not_full,310000,210950.0,1268.0,1+,Small-Medium,None,Formal rec room,over_one_story,2
+not_full,328000,224300.0,1783.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,330500,175340.0,1529.0,1+,Medium,None,Unfinished,one_story,1
+not_full,345000,313860.0,2432.0,0,Large,None,Unfinished,one_story,2
+full,230000,126890.0,977.0,1+,Small,None,Unfinished,one_story,1
+full,183000,137360.0,1338.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,452500,307760.0,2466.0,1+,Large,None,Unfinished,one_story,2
+not_full,375000,408880.0,3056.0,1+,Large,None,Formal rec room,one_story,2
+not_full,375000,354450.0,3056.0,1+,Large,None,Formal rec room,one_story,2
+not_full,375000,408880.0,3056.0,1+,Large,None,Formal rec room,one_story,2
+not_full,375000,354450.0,3056.0,1+,Large,None,Formal rec room,one_story,2
+not_full,335100,220280.0,1266.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,326000,217500.0,1900.0,0,Medium-Large,None,Unfinished,one_story,1
+full,361000,231560.0,2191.0,0,Medium-Large,None,Unfinished,one_story,2
+not_full,258000,204960.0,1062.0,0,Small,Partial,Formal rec room,over_one_story,1
+not_full,290500,313980.0,2351.0,0,Large,None,Unfinished,one_story,2
+full,178000,153800.0,1176.0,0,Small,None,Unfinished,one_story,2
+full,300000,272090.0,2239.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,300000,252120.0,2239.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,349000,272090.0,2239.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,349000,252120.0,2239.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,409000,321710.0,2491.0,1+,Large,None,Unfinished,one_story,2
+full,302000,202670.0,1816.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,307500,247710.0,2256.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,307500,247710.0,2256.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,193000,166030.0,1657.0,1+,Medium,None,Unfinished,one_story,1
+full,193000,193400.0,1657.0,1+,Medium,None,Unfinished,one_story,1
+full,192000,207110.0,1894.0,0,Medium-Large,None,Formal rec room,one_story,2
+not_full,430000,302810.0,2351.0,1+,Large,None,Unfinished,one_story,1
+full,378000,328760.0,2016.0,1+,Medium-Large,None,Unfinished,over_one_story,1
+full,378000,328760.0,2016.0,1+,Medium-Large,None,Unfinished,over_one_story,1
+not_full,346000,215020.0,1351.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+full,147000,117890.0,1034.0,1+,Small,None,Unfinished,one_story,1
+not_full,415000,192350.0,1924.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,415000,227030.0,1924.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,343000,288210.0,2416.0,1+,Large,None,Formal rec room,one_story,2
+full,230000,192590.0,1700.0,0,Medium,None,Unfinished,one_story,2
+full,230000,192590.0,1700.0,0,Medium,None,Unfinished,one_story,2
+not_full,350000,261630.0,1994.0,1+,Medium-Large,None,Formal rec room,one_story,2
+full,283000,208720.0,1971.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,565000,272540.0,2359.0,1+,Large,None,Unfinished,one_story,2
+full,565000,352190.0,2359.0,1+,Large,None,Unfinished,one_story,2
+full,345000,82690.0,1924.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,345000,52210.0,1924.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,280000,243700.0,1146.0,1+,Small,None,Formal rec room,over_one_story,2
+not_full,500000,369530.0,2911.0,1+,Large,None,Unfinished,one_story,2
+full,340000,366580.0,2494.0,1+,Large,None,Unfinished,one_story,2
+full,278000,224630.0,1686.0,1+,Medium,None,Unfinished,one_story,2
+not_full,264000,200300.0,1075.0,0,Small,None,Formal rec room,over_one_story,2
+not_full,330000,270640.0,1683.0,1+,Medium,None,Unfinished,one_story,2
+full,300000,176250.0,1877.0,1+,Medium-Large,None,Unfinished,one_story,1
+full,300000,164850.0,1877.0,1+,Medium-Large,None,Unfinished,one_story,1
+full,300000,164850.0,1877.0,1+,Medium-Large,None,Unfinished,one_story,1
+full,267000,160480.0,1524.0,1+,Medium,None,Unfinished,one_story,1
+full,265000,203360.0,1488.0,0,Medium,None,Unfinished,one_story,2
+full,332000,183960.0,1598.0,0,Medium,Full,Unfinished,over_one_story,1
+full,263000,187760.0,1422.0,0,Medium,None,Unfinished,one_story,1
+full,263000,147770.0,1422.0,0,Medium,None,Unfinished,one_story,1
+full,325000,293430.0,2234.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,299000,186960.0,1432.0,0,Medium,None,Formal rec room,one_story,2
+not_full,435000,370340.0,2720.0,1+,Large,None,Unfinished,one_story,2
+not_full,320000,205390.0,1748.0,1+,Medium,None,Unfinished,one_story,2
+full,195000,159790.0,1278.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,327500,187930.0,1613.0,1+,Medium,None,Unfinished,one_story,2
+full,189000,116940.0,1280.0,1+,Small-Medium,None,Unfinished,one_story,1
+not_full,325000,197640.0,1268.0,1+,Small-Medium,Partial,Formal rec room,over_one_story,1
+not_full,325000,221460.0,1268.0,1+,Small-Medium,Partial,Formal rec room,over_one_story,1
+full,230000,196760.0,1292.0,1+,Small-Medium,None,Unfinished,one_story,2
+full,200000,154550.0,1176.0,0,Small,None,Unfinished,one_story,2
+not_full,338000,194960.0,1286.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+full,256000,174260.0,1144.0,0,Small,None,Unfinished,one_story,1
+not_full,300000,163900.0,1100.0,0,Small,None,Formal rec room,over_one_story,1
+full,153000,125740.0,1250.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,340000,266070.0,2335.0,1+,Large,None,Unfinished,one_story,2
+not_full,396000,117810.0,1524.0,1+,Medium,None,Formal rec room,over_one_story,2
+full,208000,121630.0,1023.0,0,Small,None,Unfinished,one_story,1
+not_full,165000,138930.0,1300.0,0,Small-Medium,None,Formal rec room,one_story,1
+not_full,352000,233240.0,2450.0,1+,Large,None,Unfinished,one_story,2
+not_full,352000,256910.0,2140.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,380000,271480.0,2448.0,1+,Large,None,Unfinished,one_story,2
+full,134500,37670.0,780.0,0,Small,None,Unfinished,one_story,1
+full,540000,394200.0,2836.0,1+,Large,None,Unfinished,one_story,3+
+full,320000,215740.0,1646.0,1+,Medium,None,Unfinished,one_story,2
+full,140000,100000.0,1250.0,0,Small-Medium,None,Unfinished,one_story,1
+full,140000,125250.0,1250.0,0,Small-Medium,None,Unfinished,one_story,1
+full,140000,108380.0,1250.0,0,Small-Medium,None,Unfinished,one_story,1
+full,162000,100000.0,1250.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,162000,125250.0,1250.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,162000,108380.0,1250.0,1+,Small-Medium,None,Unfinished,one_story,1
+not_full,420000,306620.0,2136.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,351000,153630.0,2507.0,1+,Large,None,Formal rec room,one_story,1
+not_full,342000,197350.0,1222.0,0,Small-Medium,None,Formal rec room,over_one_story,2
+full,373500,297980.0,2091.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,400000,288250.0,2056.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,400000,302760.0,2056.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,360000,125600.0,2566.0,1+,Large,None,Unfinished,one_story,1
+not_full,440000,287050.0,2518.0,1+,Large,None,Unfinished,one_story,2
+not_full,355000,291790.0,1780.0,0,Medium-Large,None,Formal rec room,over_one_story,1
+not_full,310000,278620.0,1776.0,0,Medium,None,Formal rec room,over_one_story,2
+not_full,267500,181870.0,976.0,0,Small,Full,Formal rec room,one_story,1
+not_full,221250,232780.0,2012.0,1+,Medium-Large,None,Formal rec room,one_story,2
+not_full,221250,260370.0,2012.0,1+,Medium-Large,None,Formal rec room,one_story,2
+full,455000,345850.0,2547.0,1+,Large,None,Unfinished,one_story,2
+full,299000,161890.0,1213.0,0,Small-Medium,None,Formal rec room,one_story,2
+full,299000,195780.0,1213.0,0,Small-Medium,None,Formal rec room,one_story,2
+full,325000,206420.0,1196.0,0,Small-Medium,None,Formal rec room,one_story,1
+not_full,331000,288950.0,2000.0,0,Medium-Large,None,Unfinished,one_story,2
+not_full,331000,288950.0,2000.0,0,Medium-Large,None,Unfinished,one_story,2
+full,390000,319010.0,1954.0,1+,Medium-Large,None,Formal rec room,one_story,2
+full,245200,251810.0,1488.0,0,Medium,None,Unfinished,one_story,2
+not_full,322000,206720.0,1372.0,0,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,322000,206720.0,1372.0,0,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,435000,244190.0,2063.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,154500,192820.0,1607.0,1+,Medium,None,Unfinished,one_story,2
+not_full,364000,229400.0,1693.0,1+,Medium,None,Unfinished,one_story,2
+not_full,210000,198480.0,1075.0,0,Small,None,Formal rec room,over_one_story,2
+not_full,210000,198480.0,1075.0,0,Small,None,Formal rec room,over_one_story,2
+full,330000,274630.0,1997.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,157000,118280.0,1378.0,0,Small-Medium,None,Unfinished,one_story,1
+full,157000,118280.0,1378.0,0,Small-Medium,None,Unfinished,one_story,1
+full,162000,118280.0,1378.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,162000,118280.0,1378.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,335000,282560.0,2212.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,335000,289100.0,2212.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,289500,201870.0,1150.0,1+,Small,None,Formal rec room,over_one_story,1
+full,292000,179980.0,912.0,1+,Small,None,Formal rec room,one_story,1
+full,215000,193150.0,1488.0,0,Medium,None,Unfinished,one_story,2
+full,535000,311520.0,2525.0,1+,Large,None,Unfinished,one_story,2
+full,535000,311520.0,2525.0,1+,Large,None,Unfinished,one_story,2
+full,294500,170570.0,1425.0,1+,Medium,None,Unfinished,one_story,2
+not_full,180000,139060.0,1300.0,0,Small-Medium,None,Formal rec room,one_story,1
+not_full,257500,231890.0,1925.0,1+,Medium-Large,None,Formal rec room,one_story,2
+not_full,277715,232070.0,1499.0,1+,Medium,Partial,Formal rec room,over_one_story,2
+not_full,372000,273230.0,2225.0,0,Medium-Large,None,Unfinished,one_story,2
+not_full,325000,220860.0,1103.0,1+,Small,None,Formal rec room,one_story,2
+not_full,325000,212270.0,1103.0,1+,Small,None,Formal rec room,one_story,2
+full,685511,398970.0,3202.0,1+,Large,None,Unfinished,one_story,2
+not_full,176500,112490.0,1320.0,1+,Small-Medium,Partial,Formal rec room,one_story,1
+not_full,176500,136500.0,1320.0,1+,Small-Medium,Partial,Formal rec room,one_story,1
+not_full,398800,153140.0,2387.0,1+,Large,None,Unfinished,one_story,2
+not_full,280000,239320.0,1143.0,1+,Small,None,Formal rec room,over_one_story,1
+full,314000,312970.0,2004.0,1+,Medium-Large,None,Formal rec room,one_story,2
+full,225000,140360.0,962.0,1+,Small,None,Unfinished,one_story,1
+full,269900,183260.0,976.0,1+,Small,None,Formal rec room,one_story,1
+not_full,305000,233280.0,1847.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,235500,172350.0,1142.0,1+,Small,None,Unfinished,one_story,2
+full,235500,142470.0,1142.0,1+,Small,None,Unfinished,one_story,2
+full,315000,178710.0,1464.0,0,Medium,None,Unfinished,one_story,1
+full,191000,147750.0,971.0,0,Small,None,Unfinished,one_story,1
+full,191000,152320.0,971.0,0,Small,None,Unfinished,one_story,1
+full,310000,238890.0,1776.0,1+,Medium,None,Unfinished,one_story,2
+full,288000,229320.0,1712.0,1+,Medium,None,Unfinished,one_story,2
+full,235000,156750.0,1140.0,0,Small,None,Formal rec room,one_story,1
+full,415000,250290.0,2154.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,152000,128380.0,1257.0,0,Small-Medium,None,Unfinished,one_story,1
+full,152000,111040.0,1257.0,0,Small-Medium,None,Unfinished,one_story,1
+full,197500,158780.0,1196.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,225000,315130.0,2532.0,1+,Large,None,Unfinished,one_story,2
+full,167500,111790.0,1380.0,1+,Small-Medium,Partial,Unfinished,one_story,1
+full,167500,139390.0,1380.0,1+,Small-Medium,Partial,Unfinished,one_story,1
+not_full,305000,237290.0,1161.0,0,Small,Full,Formal rec room,over_one_story,1
+not_full,352000,218940.0,1994.0,1+,Medium-Large,None,Formal rec room,one_story,2
+not_full,90000,138930.0,1300.0,1+,Small-Medium,None,Formal rec room,one_story,1
+not_full,90000,138930.0,1300.0,1+,Small-Medium,None,Formal rec room,one_story,1
+full,525000,392740.0,2506.0,1+,Large,None,Unfinished,one_story,2
+full,272000,224170.0,1546.0,1+,Medium,None,Unfinished,one_story,2
+not_full,370000,300570.0,2303.0,1+,Large,None,Unfinished,one_story,1
+not_full,224000,172330.0,1784.0,1+,Medium-Large,None,Unfinished,one_story,1
+full,165500,135710.0,1686.0,0,Medium,None,Unfinished,over_one_story,1
+full,139416,148180.0,1380.0,0,Small-Medium,None,Unfinished,one_story,1
+full,317500,229370.0,1934.0,1+,Medium-Large,None,Unfinished,one_story,1
+full,206000,156640.0,1210.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,206000,156640.0,1210.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,387000,301180.0,2300.0,1+,Large,Full,Unfinished,one_story,2
+full,387000,301180.0,2300.0,1+,Large,Full,Unfinished,one_story,2
+full,455000,292580.0,2422.0,1+,Large,None,Unfinished,one_story,2
+not_full,378000,202000.0,1844.0,0,Medium-Large,None,Unfinished,one_story,1
+not_full,378000,229650.0,1844.0,0,Medium-Large,None,Unfinished,one_story,1
+not_full,378000,202000.0,1844.0,0,Medium-Large,None,Unfinished,one_story,1
+full,245000,154900.0,1208.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,200000,126110.0,1708.0,0,Medium,None,Unfinished,one_story,2
+full,289000,141260.0,1546.0,1+,Medium,None,Unfinished,one_story,2
+not_full,255500,202910.0,1936.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,197000,173050.0,1114.0,1+,Small,None,Unfinished,one_story,2
+full,291000,192130.0,1610.0,0,Medium,None,Unfinished,one_story,2
+full,167500,149170.0,1083.0,1+,Small,None,Unfinished,one_story,1
+full,156000,117010.0,1034.0,0,Small,None,Unfinished,one_story,1
+full,251000,173080.0,1239.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,250000,148490.0,976.0,0,Small,Partial,Formal rec room,one_story,1
+not_full,250000,166830.0,976.0,0,Small,Partial,Formal rec room,one_story,1
+full,270000,192270.0,1646.0,1+,Medium,None,Unfinished,one_story,2
+not_full,191000,25930.0,1307.0,0,Small-Medium,Partial,Unfinished,one_story,1
+not_full,454000,110430.0,1461.0,1+,Medium,None,Formal rec room,one_story,2
+not_full,454000,110430.0,1461.0,1+,Medium,None,Formal rec room,one_story,2
+not_full,450000,305220.0,2338.0,1+,Large,Full,Unfinished,one_story,2
+full,318000,212520.0,1686.0,1+,Medium,None,Unfinished,one_story,2
+full,245000,202860.0,1128.0,0,Small,None,Unfinished,one_story,1
+full,193000,203540.0,1454.0,1+,Medium,None,Unfinished,one_story,2
+full,305000,166510.0,1186.0,1+,Small,None,Unfinished,one_story,2
+full,305000,166510.0,1186.0,1+,Small,None,Unfinished,one_story,2
+full,337500,274900.0,2798.0,1+,Large,None,Unfinished,one_story,2
+full,215001,91900.0,1578.0,1+,Medium,None,Unfinished,one_story,1
+not_full,354000,311980.0,2225.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,316000,195400.0,1523.0,0,Medium,Full,Unfinished,one_story,2
+not_full,355000,258480.0,2400.0,1+,Large,None,Unfinished,one_story,2
+full,369000,354010.0,2494.0,1+,Large,None,Unfinished,one_story,2
+full,369000,322020.0,2494.0,1+,Large,None,Unfinished,one_story,2
+full,190000,124520.0,1023.0,0,Small,None,Unfinished,one_story,1
+not_full,340000,241870.0,1287.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,412000,309350.0,2819.0,1+,Large,None,Unfinished,one_story,2
+not_full,412000,277560.0,2819.0,1+,Large,None,Unfinished,one_story,2
+not_full,355000,244980.0,1275.0,0,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,227000,211140.0,1627.0,1+,Medium,None,Formal rec room,one_story,2
+not_full,227000,211140.0,1627.0,1+,Medium,None,Formal rec room,one_story,2
+not_full,226000,257160.0,1852.0,1+,Medium-Large,None,Formal rec room,over_one_story,2
+not_full,315000,185150.0,1332.0,0,Small-Medium,None,Formal rec room,over_one_story,2
+full,219900,178210.0,1090.0,1+,Small,None,Unfinished,one_story,1
+full,374000,246630.0,2271.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,160000,128360.0,1250.0,0,Small-Medium,None,Unfinished,one_story,1
+full,300000,315090.0,2848.0,0,Large,Partial,Unfinished,one_story,2
+not_full,309900,169400.0,1100.0,0,Small,None,Formal rec room,over_one_story,1
+not_full,149000,117030.0,1300.0,0,Small-Medium,None,Formal rec room,one_story,1
+not_full,149000,117030.0,1300.0,0,Small-Medium,None,Formal rec room,one_story,1
+not_full,179900,117030.0,1300.0,1+,Small-Medium,None,Formal rec room,one_story,1
+not_full,179900,117030.0,1300.0,1+,Small-Medium,None,Formal rec room,one_story,1
+full,302000,221920.0,1686.0,0,Medium,None,Unfinished,one_story,2
+not_full,355000,197840.0,1546.0,1+,Medium,Partial,Formal rec room,one_story,1
+not_full,349900,206830.0,1268.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+full,332000,183210.0,1664.0,1+,Medium,None,Unfinished,one_story,2
+full,325000,241130.0,1674.0,1+,Medium,None,Unfinished,one_story,2
+not_full,360000,300110.0,2108.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,175000,154550.0,1176.0,0,Small,None,Unfinished,one_story,2
+not_full,240000,153880.0,1395.0,1+,Small-Medium,None,Unfinished,one_story,1
+not_full,240000,191690.0,1395.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,177000,143280.0,1338.0,0,Small-Medium,None,Unfinished,one_story,1
+full,312000,235320.0,1712.0,1+,Medium,None,Unfinished,one_story,2
+full,312000,233410.0,1712.0,1+,Medium,None,Unfinished,one_story,2
+full,280000,224810.0,1784.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,280000,200300.0,1784.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,226000,195580.0,1292.0,1+,Small-Medium,None,Unfinished,one_story,2
+full,226000,196020.0,1292.0,1+,Small-Medium,None,Unfinished,one_story,2
+full,257000,181210.0,1226.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,257000,181210.0,1226.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,180000,125360.0,1250.0,0,Small-Medium,None,Unfinished,one_story,1
+full,238000,222540.0,1090.0,1+,Small,None,Unfinished,one_story,1
+not_full,378000,185200.0,1279.0,1+,Small-Medium,None,Formal rec room,over_one_story,2
+not_full,378000,185460.0,1279.0,1+,Small-Medium,None,Formal rec room,over_one_story,2
+full,267000,182970.0,2295.0,0,Large,None,Unfinished,one_story,1
+full,267000,227410.0,2295.0,0,Large,None,Unfinished,one_story,1
+not_full,469000,275030.0,2082.0,1+,Medium-Large,None,Formal rec room,one_story,2
+not_full,205000,187450.0,1186.0,0,Small,None,Formal rec room,one_story,2
+not_full,407000,314890.0,2493.0,1+,Large,None,Unfinished,one_story,2
+not_full,290100,205950.0,1127.0,0,Small,Partial,Formal rec room,over_one_story,1
+full,421500,296070.0,2169.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,190000,191200.0,1386.0,1+,Small-Medium,None,Unfinished,one_story,1
+not_full,327000,203760.0,1186.0,0,Small,Partial,Formal rec room,over_one_story,2
+full,310000,267320.0,2448.0,1+,Large,None,Unfinished,one_story,2
+not_full,475000,303040.0,2500.0,1+,Large,None,Unfinished,one_story,2
+full,195000,140130.0,1176.0,0,Small,None,Unfinished,one_story,2
+full,195000,154550.0,1176.0,0,Small,None,Unfinished,one_story,2
+full,155000,125360.0,1250.0,0,Small-Medium,None,Unfinished,one_story,1
+full,271000,215620.0,1952.0,0,Medium-Large,None,Unfinished,one_story,1
+not_full,345000,204050.0,1540.0,1+,Medium,None,Formal rec room,over_one_story,1
+not_full,357500,288540.0,2016.0,0,Medium-Large,None,Unfinished,one_story,2
+full,344000,171890.0,1251.0,0,Small-Medium,None,Formal rec room,one_story,1
+full,214000,181410.0,1293.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,312500,217080.0,1372.0,1+,Small-Medium,None,Unfinished,one_story,2
+full,355000,292420.0,1891.0,1+,Medium-Large,Partial,Unfinished,over_one_story,2
+full,265000,197000.0,1165.0,1+,Small,Full,Unfinished,one_story,2
+not_full,227500,158400.0,1200.0,0,Small-Medium,None,Formal rec room,one_story,1
+not_full,341000,257660.0,2336.0,1+,Large,None,Unfinished,one_story,2
+full,375000,323540.0,2439.0,1+,Large,None,Unfinished,one_story,2
+not_full,297000,274990.0,2112.0,0,Medium-Large,None,Formal rec room,one_story,2
+not_full,297000,216270.0,2112.0,0,Medium-Large,None,Formal rec room,one_story,2
+full,262000,194420.0,1386.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,361500,337300.0,2456.0,1+,Large,None,Unfinished,one_story,2
+full,220000,177940.0,1090.0,0,Small,None,Unfinished,one_story,1
+full,255500,177700.0,1142.0,1+,Small,None,Unfinished,one_story,2
+full,255500,168210.0,1142.0,1+,Small,None,Unfinished,one_story,2
+not_full,275000,196360.0,1192.0,0,Small-Medium,None,Formal rec room,one_story,2
+not_full,275000,196360.0,1192.0,0,Small-Medium,None,Formal rec room,one_story,2
+full,525000,299380.0,2458.0,1+,Large,None,Unfinished,one_story,2
+full,303000,234240.0,2012.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,303000,195210.0,2012.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,303000,195210.0,2012.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,367000,175010.0,1243.0,0,Small-Medium,None,Formal rec room,one_story,1
+full,367000,175010.0,1243.0,0,Small-Medium,None,Formal rec room,one_story,1
+not_full,330000,274090.0,1626.0,1+,Medium,None,Unfinished,one_story,2
+full,280000,213430.0,1405.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,280000,213430.0,1405.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,332000,333440.0,2248.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,321000,222090.0,1158.0,1+,Small,None,Formal rec room,over_one_story,1
+full,153500,117010.0,1034.0,0,Small,None,Unfinished,one_story,1
+full,330000,288400.0,1705.0,1+,Medium,None,Unfinished,one_story,2
+full,330000,245100.0,1705.0,1+,Medium,None,Unfinished,one_story,2
+full,310000,248660.0,2012.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,310000,248660.0,2012.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,314500,248660.0,2012.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,314500,248660.0,2012.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,305000,206790.0,1271.0,0,Small-Medium,None,Formal rec room,over_one_story,1
+full,250000,135530.0,1889.0,1+,Medium-Large,None,Unfinished,one_story,3+
+not_full,227500,185130.0,1268.0,0,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,183000,117530.0,1300.0,1+,Small-Medium,None,Formal rec room,one_story,1
+full,175000,118080.0,1280.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,175000,92120.0,1280.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,417000,344300.0,2503.0,1+,Large,None,Unfinished,one_story,2
+not_full,275000,138880.0,1144.0,0,Small,Full,Formal rec room,one_story,1
+full,237000,155030.0,1309.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,180000,192390.0,984.0,1+,Small,None,Formal rec room,one_story,1
+full,180000,192390.0,984.0,1+,Small,None,Formal rec room,one_story,1
+not_full,370000,324440.0,2493.0,1+,Large,None,Unfinished,one_story,2
+full,272000,185790.0,1305.0,0,Small-Medium,Partial,Unfinished,one_story,1
+full,375000,247870.0,2325.0,1+,Large,None,Unfinished,one_story,2
+not_full,382500,270440.0,2140.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,245000,165660.0,1140.0,0,Small,None,Unfinished,one_story,1
+not_full,385000,318910.0,2282.0,1+,Large,None,Formal rec room,one_story,3+
+full,452500,221640.0,2648.0,1+,Large,None,Unfinished,one_story,2
+not_full,185000,140930.0,1320.0,0,Small-Medium,None,Formal rec room,one_story,2
+not_full,185000,110580.0,1320.0,0,Small-Medium,None,Formal rec room,one_story,2
+not_full,185000,110580.0,1320.0,0,Small-Medium,None,Formal rec room,one_story,2
+full,350000,321910.0,2712.0,1+,Large,Partial,Unfinished,one_story,3+
+full,280000,196930.0,1644.0,1+,Medium,None,Unfinished,one_story,1
+not_full,275000,204920.0,1187.0,0,Small,None,Formal rec room,over_one_story,1
+full,308100,364730.0,2547.0,1+,Large,None,Unfinished,one_story,2
+not_full,166000,105600.0,1320.0,1+,Small-Medium,None,Formal rec room,one_story,1
+not_full,166000,105600.0,1320.0,1+,Small-Medium,None,Formal rec room,one_story,1
+full,318000,193620.0,1527.0,1+,Medium,None,Unfinished,one_story,2
+full,530600,269170.0,2485.0,1+,Large,Full,Unfinished,over_one_story,3+
+full,530600,269170.0,2485.0,1+,Large,Full,Unfinished,over_one_story,3+
+full,320000,221350.0,2167.0,1+,Medium-Large,None,Formal rec room,one_story,2
+full,312000,232500.0,1152.0,1+,Small,None,Unfinished,one_story,1
+full,312000,182360.0,1152.0,1+,Small,None,Unfinished,one_story,1
+not_full,380000,243920.0,1414.0,1+,Small-Medium,None,Formal rec room,over_one_story,2
+full,407500,279190.0,1875.0,1+,Medium-Large,None,Unfinished,one_story,1
+full,407500,279190.0,1875.0,1+,Medium-Large,None,Unfinished,one_story,1
+full,433000,279190.0,1875.0,1+,Medium-Large,None,Unfinished,one_story,1
+full,433000,279190.0,1875.0,1+,Medium-Large,None,Unfinished,one_story,1
+full,328000,171850.0,1120.0,0,Small,None,Unfinished,one_story,1
+full,213000,175380.0,1767.0,0,Medium,None,Unfinished,one_story,2
+full,346500,259190.0,2335.0,1+,Large,None,Unfinished,one_story,2
+full,318000,211090.0,1259.0,1+,Small-Medium,None,Formal rec room,one_story,2
+not_full,270000,215390.0,1588.0,1+,Medium,None,Unfinished,one_story,1
+not_full,330000,243890.0,1163.0,1+,Small,None,Formal rec room,over_one_story,2
+not_full,330000,222860.0,1163.0,1+,Small,None,Formal rec room,over_one_story,2
+full,170000,149620.0,1065.0,0,Small,None,Unfinished,one_story,2
+full,165000,112000.0,1378.0,0,Small-Medium,None,Unfinished,one_story,1
+full,165000,139300.0,1378.0,0,Small-Medium,None,Unfinished,one_story,1
+full,165000,112000.0,1378.0,0,Small-Medium,None,Unfinished,one_story,1
+full,330000,308040.0,1730.0,1+,Medium,None,Unfinished,one_story,2
+full,217500,176220.0,1767.0,0,Medium,None,Unfinished,one_story,2
+full,315000,228210.0,1380.0,0,Small-Medium,None,Formal rec room,over_one_story,1
+full,315000,192490.0,1380.0,0,Small-Medium,None,Formal rec room,over_one_story,1
+full,185000,229490.0,1850.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,185000,229490.0,1850.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,267000,181890.0,1302.0,1+,Small-Medium,None,Formal rec room,one_story,2
+not_full,375000,273550.0,1942.0,1+,Medium-Large,None,Formal rec room,one_story,1
+not_full,375000,220420.0,1942.0,1+,Medium-Large,None,Formal rec room,one_story,1
+not_full,375000,220420.0,1942.0,1+,Medium-Large,None,Formal rec room,one_story,1
+full,367500,127390.0,1546.0,1+,Medium,None,Unfinished,one_story,2
+full,250000,142990.0,1227.0,1+,Small-Medium,Partial,Unfinished,one_story,1
+full,250000,147820.0,1227.0,1+,Small-Medium,Partial,Unfinished,one_story,1
+full,350000,317210.0,1920.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,349900,270520.0,1705.0,1+,Medium,None,Unfinished,one_story,2
+full,451000,340030.0,3134.0,1+,Large,None,Unfinished,one_story,3+
+full,353000,251040.0,2300.0,1+,Large,None,Unfinished,one_story,1
+full,232000,198470.0,1212.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,345000,276120.0,2080.0,1+,Medium-Large,None,Formal rec room,one_story,2
+not_full,345000,248770.0,2080.0,1+,Medium-Large,None,Formal rec room,one_story,2
+not_full,245000,213000.0,1733.0,1+,Medium,None,Formal rec room,over_one_story,1
+not_full,249900,232510.0,1412.0,0,Small-Medium,Partial,Formal rec room,over_one_story,2
+full,364000,364800.0,2494.0,1+,Large,None,Unfinished,one_story,2
+full,364000,280890.0,2494.0,1+,Large,None,Unfinished,one_story,2
+full,316000,208150.0,1646.0,1+,Medium,None,Unfinished,one_story,2
+full,381000,238740.0,1871.0,1+,Medium-Large,None,Unfinished,one_story,1
+full,230000,141600.0,1111.0,1+,Small,None,Unfinished,one_story,1
+not_full,290000,273170.0,2064.0,0,Medium-Large,None,Unfinished,one_story,2
+not_full,290000,266140.0,2064.0,0,Medium-Large,None,Unfinished,one_story,2
+full,309900,221320.0,2346.0,1+,Large,None,Unfinished,one_story,2
+full,309900,212480.0,2346.0,1+,Large,None,Unfinished,one_story,2
+full,302500,274830.0,2271.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,460000,305090.0,2401.0,1+,Large,None,Formal rec room,one_story,2
+not_full,331000,168990.0,1154.0,1+,Small,None,Formal rec room,one_story,1
+not_full,307500,170750.0,1075.0,0,Small,Partial,Formal rec room,over_one_story,1
+not_full,307500,191360.0,1075.0,0,Small,Partial,Formal rec room,over_one_story,1
+not_full,307500,191360.0,1075.0,0,Small,Partial,Formal rec room,over_one_story,1
+not_full,322500,255960.0,1139.0,1+,Small,None,Formal rec room,over_one_story,1
+not_full,322500,227460.0,1139.0,1+,Small,None,Formal rec room,over_one_story,1
+full,326000,220680.0,2078.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,285000,192060.0,987.0,0,Small,None,Formal rec room,one_story,1
+not_full,290000,192250.0,1186.0,1+,Small,None,Formal rec room,one_story,2
+full,197000,150510.0,1525.0,1+,Medium,None,Unfinished,one_story,2
+full,351000,244920.0,2600.0,1+,Large,None,Unfinished,one_story,2
+full,315500,238860.0,1907.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,315500,214740.0,1907.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,258000,202850.0,1488.0,0,Medium,None,Unfinished,one_story,2
+not_full,263000,205500.0,1269.0,0,Small-Medium,None,Formal rec room,over_one_story,1
+full,399000,254620.0,2466.0,1+,Large,None,Unfinished,one_story,2
+not_full,397500,234630.0,1499.0,1+,Medium,None,Formal rec room,over_one_story,2
+full,260000,262140.0,1764.0,1+,Medium,None,Unfinished,one_story,2
+full,270000,174730.0,1196.0,0,Small-Medium,None,Unfinished,one_story,1
+full,270000,174730.0,1196.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,329900,211130.0,1470.0,1+,Medium,None,Formal rec room,over_one_story,2
+not_full,329900,238050.0,1470.0,1+,Medium,None,Formal rec room,over_one_story,2
+not_full,405000,350100.0,2343.0,1+,Large,None,Unfinished,one_story,2
+full,285000,233840.0,1149.0,1+,Small,None,Unfinished,one_story,1
+full,268000,202110.0,1622.0,1+,Medium,None,Unfinished,one_story,2
+full,268000,192860.0,1622.0,1+,Medium,None,Unfinished,one_story,2
+full,320000,202110.0,1622.0,1+,Medium,None,Unfinished,one_story,2
+full,320000,192860.0,1622.0,1+,Medium,None,Unfinished,one_story,2
+full,372000,344780.0,2016.0,1+,Medium-Large,None,Unfinished,over_one_story,1
+full,230000,118230.0,1525.0,1+,Medium,None,Unfinished,one_story,2
+not_full,416000,341970.0,1940.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,416000,288290.0,1940.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,365000,291140.0,2592.0,1+,Large,None,Unfinished,one_story,2
+full,355500,299940.0,2154.0,0,Medium-Large,None,Unfinished,one_story,2
+not_full,190000,111380.0,1300.0,0,Small-Medium,None,Formal rec room,one_story,1
+not_full,190000,135430.0,1300.0,0,Small-Medium,None,Formal rec room,one_story,1
+full,235000,189710.0,1151.0,1+,Small,None,Unfinished,one_story,1
+full,385000,186850.0,1521.0,1+,Medium,Partial,Formal rec room,one_story,2
+full,385000,175740.0,1521.0,1+,Medium,Partial,Formal rec room,one_story,2
+full,417000,359700.0,2400.0,1+,Large,None,Unfinished,over_one_story,2
+not_full,226000,193480.0,1188.0,0,Small,None,Formal rec room,one_story,2
+not_full,226000,193480.0,1188.0,0,Small,None,Formal rec room,one_story,2
+full,230000,212010.0,1090.0,1+,Small,None,Unfinished,one_story,1
+not_full,320000,194440.0,1186.0,0,Small,Full,Unfinished,one_story,1
+not_full,315000,236570.0,1266.0,0,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,320000,217290.0,1267.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+full,162000,148470.0,1078.0,0,Small,None,Unfinished,one_story,1
+not_full,259000,207170.0,1372.0,0,Small-Medium,None,Formal rec room,over_one_story,1
+not_full,359000,256100.0,1266.0,1+,Small-Medium,None,Formal rec room,over_one_story,1
+full,192000,128650.0,1023.0,1+,Small,None,Unfinished,one_story,1
+full,305000,135810.0,1646.0,1+,Medium,None,Unfinished,one_story,2
+full,313000,212360.0,1646.0,1+,Medium,None,Unfinished,one_story,2
+not_full,330000,269870.0,1603.0,1+,Medium,None,Formal rec room,over_one_story,2
+not_full,329000,248740.0,1150.0,1+,Small,None,Formal rec room,over_one_story,2
+full,315000,256030.0,2392.0,1+,Large,None,Unfinished,one_story,2
+full,205000,175860.0,1090.0,0,Small,None,Unfinished,one_story,1
+full,390000,242320.0,2299.0,1+,Large,None,Unfinished,one_story,2
+full,390000,249900.0,2299.0,1+,Large,None,Unfinished,one_story,2
+not_full,452000,212920.0,1603.0,1+,Medium,None,Unfinished,one_story,2
+full,300000,270290.0,1536.0,1+,Medium,None,Formal rec room,one_story,2
+full,342000,214310.0,1237.0,1+,Small-Medium,None,Unfinished,one_story,2
+full,342000,214310.0,1237.0,1+,Small-Medium,None,Unfinished,one_story,2
+full,342000,214310.0,1237.0,1+,Small-Medium,None,Unfinished,one_story,2
+full,375000,225250.0,2004.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,166000,185390.0,976.0,0,Small,None,Formal rec room,one_story,1
+not_full,257900,179320.0,1260.0,1+,Small-Medium,None,Formal rec room,over_one_story,2
+not_full,257900,219230.0,1260.0,1+,Small-Medium,None,Formal rec room,over_one_story,2
+full,330000,144110.0,1546.0,1+,Medium,None,Unfinished,one_story,2
+full,330000,144110.0,1546.0,1+,Medium,None,Unfinished,one_story,2
+full,375000,364530.0,2494.0,1+,Large,None,Unfinished,one_story,2
+not_full,200000,160470.0,1422.0,1+,Medium,None,Unfinished,one_story,1
+full,270000,223990.0,1141.0,1+,Small,Full,Unfinished,one_story,1
+not_full,360000,266980.0,1793.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,365000,273210.0,1761.0,1+,Medium,None,Unfinished,one_story,2
+full,292500,176960.0,1821.0,0,Medium-Large,None,Unfinished,one_story,1
+full,238000,215700.0,1090.0,0,Small,None,Unfinished,one_story,1
+not_full,335000,206050.0,1751.0,1+,Medium,Partial,Formal rec room,over_one_story,2
+not_full,335000,192190.0,1751.0,1+,Medium,Partial,Formal rec room,over_one_story,2
+full,390000,251780.0,2152.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,265000,30940.0,1125.0,0,Small,None,Unfinished,one_story,1
+full,296500,214080.0,1873.0,0,Medium-Large,None,Unfinished,one_story,2
+full,286000,207960.0,1140.0,0,Small,Full,Unfinished,one_story,1
+full,400000,174370.0,2000.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,265000,211930.0,1196.0,1+,Small-Medium,None,Formal rec room,over_one_story,2
+not_full,276500,237240.0,1545.0,1+,Medium,None,Formal rec room,over_one_story,1
+not_full,276500,237240.0,1545.0,1+,Medium,None,Formal rec room,over_one_story,1
+full,299000,255640.0,2332.0,0,Large,None,Unfinished,one_story,2
+full,320000,291330.0,1670.0,1+,Medium,None,Unfinished,one_story,2
+full,165100,125360.0,1250.0,0,Small-Medium,None,Unfinished,one_story,1
+full,317000,235360.0,1755.0,1+,Medium,Partial,Unfinished,one_story,1
+not_full,380000,290200.0,1639.0,1+,Medium,None,Formal rec room,over_one_story,2
+full,305000,268840.0,1842.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,161000,155570.0,1686.0,1+,Medium,None,Unfinished,over_one_story,1
+full,411500,350430.0,3157.0,1+,Large,None,Unfinished,one_story,3+
+full,318000,265970.0,2560.0,1+,Large,None,Unfinished,one_story,1
+not_full,280000,208840.0,1186.0,1+,Small,Partial,Formal rec room,one_story,2
+not_full,325000,230010.0,1962.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,321000,235180.0,1565.0,0,Medium,None,Unfinished,one_story,1
+not_full,419000,313260.0,2343.0,1+,Large,None,Unfinished,one_story,2
+full,220000,229730.0,1600.0,0,Medium,None,Unfinished,one_story,1
+full,450000,263450.0,2256.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,146000,125380.0,1257.0,0,Small-Medium,None,Unfinished,one_story,1
+full,146000,110860.0,1257.0,0,Small-Medium,None,Unfinished,one_story,1
+full,230000,125430.0,1338.0,1+,Small-Medium,None,Formal rec room,one_story,1
+not_full,260000,205740.0,1156.0,0,Small,None,Formal rec room,one_story,2
+full,161000,162620.0,1363.0,0,Small-Medium,None,Unfinished,one_story,2
+not_full,254000,172960.0,945.0,0,Small,Full,Formal rec room,one_story,1
+full,146000,63260.0,1027.0,0,Small,Partial,Unfinished,one_story,1
+full,146000,90200.0,1027.0,0,Small,Partial,Unfinished,one_story,1
+not_full,268250,280030.0,1672.0,1+,Medium,None,Formal rec room,over_one_story,2
+not_full,268250,280030.0,1672.0,1+,Medium,None,Formal rec room,over_one_story,2
+full,225000,87880.0,1707.0,1+,Medium,Full,Unfinished,over_one_story,2
+full,315000,100370.0,1785.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,454000,195380.0,2061.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,187500,229720.0,1795.0,1+,Medium-Large,Partial,Unfinished,over_one_story,2
+full,214000,178000.0,1094.0,1+,Small,None,Unfinished,one_story,1
+not_full,190000,160430.0,1202.0,0,Small-Medium,None,Unfinished,one_story,1
+not_full,171000,135590.0,1300.0,0,Small-Medium,None,Formal rec room,one_story,1
+full,195000,162620.0,1363.0,0,Small-Medium,None,Unfinished,one_story,2
+full,195000,162620.0,1363.0,0,Small-Medium,None,Unfinished,one_story,2
+not_full,260000,219450.0,1790.0,1+,Medium-Large,Partial,Unfinished,one_story,2
+not_full,326000,229750.0,1525.0,1+,Medium,None,Formal rec room,over_one_story,2
+full,157000,128380.0,1257.0,0,Small-Medium,None,Unfinished,one_story,1
+full,130000,118510.0,1378.0,1+,Small-Medium,None,Unfinished,one_story,1
+full,310000,222650.0,1773.0,1+,Medium,None,Unfinished,one_story,2
+full,310000,222650.0,1773.0,1+,Medium,None,Unfinished,one_story,2
+not_full,390000,234090.0,2318.0,1+,Large,None,Unfinished,one_story,2
+full,264000,206940.0,1420.0,1+,Medium,None,Unfinished,one_story,2
+full,159900,125360.0,1250.0,0,Small-Medium,None,Unfinished,one_story,1
+full,420000,262680.0,2271.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,289500,274580.0,1372.0,1+,Small-Medium,None,Unfinished,one_story,2
+full,281500,232120.0,1583.0,0,Medium,None,Unfinished,one_story,1
+not_full,299000,213860.0,1268.0,1+,Small-Medium,None,Formal rec room,over_one_story,2
+not_full,430000,288150.0,2448.0,1+,Large,None,Unfinished,one_story,2
+not_full,430000,212620.0,3526.0,1+,Large,None,Formal rec room,one_story,2
+not_full,425000,135490.0,2377.0,1+,Large,None,Unfinished,one_story,2
+not_full,229500,158400.0,1654.0,1+,Medium,None,Unfinished,one_story,2
+not_full,229500,176620.0,1654.0,1+,Medium,None,Unfinished,one_story,2
+not_full,300000,267770.0,2373.0,0,Large,None,Formal rec room,one_story,2
+not_full,295000,162600.0,1084.0,0,Small,Partial,Formal rec room,over_one_story,1
+not_full,405000,294580.0,2351.0,1+,Large,None,Unfinished,one_story,2
+not_full,270000,259750.0,1824.0,1+,Medium-Large,None,Formal rec room,over_one_story,1
+full,310000,284920.0,1832.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,176000,96270.0,1300.0,1+,Small-Medium,None,Formal rec room,one_story,1
+full,190000,134940.0,962.0,0,Small,Partial,Unfinished,one_story,1
+full,329000,312850.0,2218.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,179900,132590.0,1065.0,0,Small,None,Unfinished,one_story,2
+not_full,537500,410600.0,3181.0,1+,Large,None,Unfinished,one_story,2
+full,275000,198400.0,974.0,1+,Small,None,Formal rec room,one_story,2
+full,437000,296100.0,2433.0,1+,Large,None,Unfinished,one_story,2
+not_full,362000,234160.0,2203.0,0,Medium-Large,None,Formal rec room,one_story,2
+full,232000,146320.0,962.0,0,Small,None,Unfinished,one_story,1
+not_full,365000,166060.0,1879.0,1+,Medium-Large,None,Unfinished,one_story,2
+full,338000,235970.0,1712.0,1+,Medium,None,Formal rec room,one_story,2
+full,278469,148210.0,1140.0,0,Small,None,Formal rec room,one_story,1
+full,336000,263990.0,2420.0,1+,Large,None,Unfinished,one_story,2
+full,430000,245030.0,2990.0,1+,Large,None,Formal rec room,one_story,2
+full,430000,192460.0,2990.0,1+,Large,None,Formal rec room,one_story,2
+full,281000,168890.0,1145.0,0,Small,Partial,Unfinished,one_story,1
+full,281000,190230.0,1145.0,0,Small,Partial,Unfinished,one_story,1
+full,267000,189180.0,1677.0,1+,Medium,None,Unfinished,one_story,2
+not_full,417000,350530.0,2493.0,1+,Large,None,Unfinished,one_story,2
+full,146000,117780.0,1034.0,0,Small,None,Unfinished,one_story,1
+full,146000,117780.0,1034.0,0,Small,None,Unfinished,one_story,1
+not_full,365000,275580.0,1580.0,1+,Medium,None,Formal rec room,over_one_story,2
+full,350000,261290.0,2140.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,300000,183160.0,1186.0,0,Small,None,Formal rec room,one_story,2
+not_full,300000,203620.0,1186.0,0,Small,None,Formal rec room,one_story,2
+not_full,387000,337430.0,2694.0,1+,Large,None,Unfinished,one_story,2
+not_full,387000,339440.0,2694.0,1+,Large,None,Unfinished,one_story,2
+not_full,378000,365170.0,2886.0,1+,Large,None,Unfinished,one_story,3+
+not_full,190000,193510.0,1075.0,0,Small,None,Formal rec room,over_one_story,1
+not_full,373000,260370.0,1805.0,1+,Medium-Large,None,Unfinished,one_story,2
+not_full,210000,166810.0,1005.0,0,Small,None,Unfinished,over_one_story,1
+full,390000,79670.0,2712.0,1+,Large,Partial,Unfinished,one_story,3+
