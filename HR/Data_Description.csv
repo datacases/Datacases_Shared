@@ -1,0 +1,11 @@
+﻿column_name,column_description,data_type
+prod_date,date on which the data was collected,date
+gender,employee gender information,numeric
+race,employee race information,character
+age,employee age information,numeric
+job_title,employee job title,character
+department,full department name,character
+salary,nominal annual salary,numeric
+salary_basis,frequency at which an employee gets paid ,character
+original_hire_date,date on which an employee was hired,date
+empcat,employement category,character
