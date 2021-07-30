@@ -7,9 +7,7 @@ age,employee age information,numeric
 job_title,employee job title,character
 department,full department name,character
 salary,nominal annual salary,numeric
-salary_basis,frequency at which an employee gets paid ,character
 original_hire_date,date on which an employee was hired,date
-empcat,employement category,character
 ,,
 ,,
 data assignment 2,,
@@ -21,7 +19,5 @@ age,employee age information,numeric
 job_title,employee job title,factor
 department,full department name,factor
 salary,nominal annual salary,numeric
-salary_basis,frequency at which an employee gets paid ,factor
 original_hire_date,date on which an employee was hired,date
-empcat,employement category,factor
 dept,cleaned department names after implementing the procedures from data assignment 1,factor
